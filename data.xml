@@ -139,44 +139,44 @@
   <pets name="helpers">
       <character id="1" strength="10" frequency="5">
         <upgrades>
-          <upgrade id="1" time="700" price="1" accelerat="1"/>
-          <upgrade id="2" time="700" price="1" accelerat="2"/>
-          <upgrade id="3" time="700" price="1" accelerat="3"/>
-          <upgrade id="4" time="700" price="1" accelerat="4"/>
-          <upgrade id="5" time="700" price="1" accelerat="5"/>
-          <upgrade id="6" time="700" price="1" accelerat="6"/>
-          <upgrade id="7" time="700" price="1" accelerat="7"/>
-          <upgrade id="8" time="700" price="1" accelerat="8"/>
-          <upgrade id="9" time="700" price="1" accelerat="9"/>
-          <upgrade id="10" time="700" price="1" accelerat="10"/>
+          <upgrade id="1" time="700" price="1" boostPrice="3" accelerat="1"/>
+          <upgrade id="2" time="700" price="1" boostPrice="3" accelerat="2"/>
+          <upgrade id="3" time="700" price="1" boostPrice="3" accelerat="3"/>
+          <upgrade id="4" time="700" price="1" boostPrice="3" accelerat="4"/>
+          <upgrade id="5" time="700" price="1" boostPrice="3" accelerat="5"/>
+          <upgrade id="6" time="700" price="1" boostPrice="3" accelerat="6"/>
+          <upgrade id="7" time="700" price="1" boostPrice="3" accelerat="7"/>
+          <upgrade id="8" time="700" price="1" boostPrice="3" accelerat="8"/>
+          <upgrade id="9" time="700" price="1" boostPrice="3" accelerat="9"/>
+          <upgrade id="10" time="700" price="1" boostPrice="3" accelerat="10"/>
         </upgrades>
       </character>
       <character id="2" strength="15" frequency="4">
         <upgrades>
-          <upgrade id="1" time="700" price="1" accelerat="1"/>
-          <upgrade id="2" time="700" price="1" accelerat="2"/>
-          <upgrade id="3" time="700" price="1" accelerat="3"/>
-          <upgrade id="4" time="700" price="1" accelerat="4"/>
-          <upgrade id="5" time="700" price="1" accelerat="5"/>
-          <upgrade id="6" time="700" price="1" accelerat="6"/>
-          <upgrade id="7" time="700" price="1" accelerat="7"/>
-          <upgrade id="8" time="700" price="1" accelerat="8"/>
-          <upgrade id="9" time="700" price="1" accelerat="9"/>
-          <upgrade id="10" time="700" price="1" accelerat="10"/>
+          <upgrade id="1" time="700" price="1" boostPrice="3" accelerat="1"/>
+          <upgrade id="2" time="700" price="1" boostPrice="3" accelerat="2"/>
+          <upgrade id="3" time="700" price="1" boostPrice="3" accelerat="3"/>
+          <upgrade id="4" time="700" price="1" boostPrice="3" accelerat="4"/>
+          <upgrade id="5" time="700" price="1" boostPrice="3" accelerat="5"/>
+          <upgrade id="6" time="700" price="1" boostPrice="3" accelerat="6"/>
+          <upgrade id="7" time="700" price="1" boostPrice="3" accelerat="7"/>
+          <upgrade id="8" time="700" price="1" boostPrice="3" accelerat="8"/>
+          <upgrade id="9" time="700" price="1" boostPrice="3" accelerat="9"/>
+          <upgrade id="10" time="700" price="1" boostPrice="3" accelerat="10"/>
         </upgrades>
       </character>
       <character id="3" strength="20" frequency="2">
         <upgrades>
-          <upgrade id="1" time="700" price="1" accelerat="1"/>
-          <upgrade id="2" time="700" price="1" accelerat="2"/>
-          <upgrade id="3" time="700" price="1" accelerat="3"/>
-          <upgrade id="4" time="700" price="1" accelerat="4"/>
-          <upgrade id="5" time="700" price="1" accelerat="5"/>
-          <upgrade id="6" time="700" price="1" accelerat="6"/>
-          <upgrade id="7" time="700" price="1" accelerat="7"/>
-          <upgrade id="8" time="700" price="1" accelerat="8"/>
-          <upgrade id="9" time="700" price="1" accelerat="9"/>
-          <upgrade id="10" time="700" price="1" accelerat="10"/>
+          <upgrade id="1" time="700" price="1" boostPrice="3" accelerat="1"/>
+          <upgrade id="2" time="700" price="1" boostPrice="3" accelerat="2"/>
+          <upgrade id="3" time="700" price="1" boostPrice="3" accelerat="3"/>
+          <upgrade id="4" time="700" price="1" boostPrice="3" accelerat="4"/>
+          <upgrade id="5" time="700" price="1" boostPrice="3" accelerat="5"/>
+          <upgrade id="6" time="700" price="1" boostPrice="3" accelerat="6"/>
+          <upgrade id="7" time="700" price="1" boostPrice="3" accelerat="7"/>
+          <upgrade id="8" time="700" price="1" boostPrice="3" accelerat="8"/>
+          <upgrade id="9" time="700" price="1" boostPrice="3" accelerat="9"/>
+          <upgrade id="10" time="700" price="1" boostPrice="3" accelerat="10"/>
         </upgrades>
       </character>
   </pets>
