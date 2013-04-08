@@ -40,7 +40,6 @@
       <character id="33" health="280" strength="120" defense="120" magic_defense="40" fortune="0" agility="0" chance1="3" chance2="3" chance3="3"/>
       <character id="34" health="260" strength="110" defense="110" magic_defense="30" fortune="0" agility="0" chance1="3" chance2="3" chance3="3"/>
       <character id="35" health="330" strength="150" defense="130" magic_defense="50" fortune="0" agility="0" chance1="2" chance2="2" chance3="2"/>
-    </
     </characters>
     <characters name="elves">
       <character id="1" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0"/>
