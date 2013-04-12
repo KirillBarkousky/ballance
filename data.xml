@@ -211,6 +211,7 @@
       <sword id="22" strength="1" price="11" priceType="1" accessLevel="1"/>
       <sword id="23" strength="1" price="11" priceType="1" accessLevel="1"/>
       <sword id="24" strength="1" price="11" priceType="2" accessLevel="1"/>
+      <sword id="25" strength="1" price="11" priceType="2" accessLevel="1"/>      
     </equipment>
     <equipment name="shields" type="3">
       <shield id="1" health="0" defense="30" price="11" priceType="1" accessLevel="1"/>
