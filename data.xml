@@ -187,87 +187,86 @@
   </pets>
   <equipments>
     <equipment name="swords" type="7">
-      <sword id="1" strength="40" price="11" priceType="1"/>
-      <sword id="2" strength="45" price="11" priceType="1"/>
-      <sword id="3" strength="50" price="11" priceType="1"/>
-      <sword id="4" strength="1" price="11" priceType="1"/>
-      <sword id="5" strength="1" price="11" priceType="1"/>
-      <sword id="6" strength="1" price="11" priceType="1"/>
-      <sword id="7" strength="1" price="11" priceType="1"/>
-      <sword id="8" strength="1" price="11" priceType="1"/>
-      <sword id="9" strength="1" price="11" priceType="1"/>
-      <sword id="10" strength="1" price="11" priceType="1"/>
-      <sword id="11" strength="1" price="11" priceType="1"/>
-      <sword id="12" strength="1" price="11" priceType="1"/>
-      <sword id="13" strength="1" price="11" priceType="1"/>
-      <sword id="14" strength="1" price="11" priceType="1"/>
-      <sword id="15" strength="1" price="11" priceType="1"/>
-      <sword id="16" strength="1" price="11" priceType="1"/>
-      <sword id="17" strength="1" price="11" priceType="1"/>
-      <sword id="18" strength="1" price="11" priceType="1"/>
-      <sword id="19" strength="1" price="11" priceType="1"/>
-      <sword id="20" strength="1" price="11" priceType="1"/>
-      <sword id="21" strength="1" price="11" priceType="1"/>
-      <sword id="22" strength="1" price="11" priceType="1"/>
-      <sword id="23" strength="1" price="11" priceType="1"/>
-      <sword id="24" strength="1" price="11" priceType="1"/>
-      <sword id="25" strength="1" price="11" priceType="1"/>
+      <sword id="1" strength="40" price="11" priceType="1" accessLevel="1"/>
+      <sword id="2" strength="45" price="11" priceType="1" accessLevel="1"/>
+      <sword id="3" strength="50" price="11" priceType="1" accessLevel="1"/>
+      <sword id="4" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="5" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="6" strength="1" price="11" priceType="2" accessLevel="1"/>
+      <sword id="7" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="8" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="9" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="10" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="11" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="12" strength="1" price="11" priceType="2" accessLevel="1"/>
+      <sword id="13" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="14" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="15" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="16" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="17" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="18" strength="1" price="11" priceType="2" accessLevel="1"/>
+      <sword id="19" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="20" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="21" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="22" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="23" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="24" strength="1" price="11" priceType="2" accessLevel="1"/>
     </equipment>
     <equipment name="shields" type="3">
-      <shield id="1" health="0" defense="30" price="11" priceType="1"/>
-      <shield id="2" health="0" defense="35" price="11" priceType="1"/>
-      <shield id="3" health="0" defense="40" price="11" priceType="1"/>
-      <shield id="4" health="" defense="" price="11" priceType="1"/>
-      <shield id="5" health="" defense="" price="11" priceType="1"/>
-      <shield id="6" health="" defense="" price="11" priceType="1"/>
-      <shield id="7" health="" defense="" price="11" priceType="1"/>
-      <shield id="8" health="" defense="" price="11" priceType="1"/>
-      <shield id="9" health="" defense="" price="11" priceType="1"/>
-      <shield id="10" health="" defense="" price="11" priceType="1"/>
-      <shield id="11" health="" defense="" price="11" priceType="1"/>
-      <shield id="12" health="" defense="" price="11" priceType="1"/>
+      <shield id="1" health="0" defense="30" price="11" priceType="1" accessLevel="1"/>
+      <shield id="2" health="0" defense="35" price="11" priceType="1" accessLevel="1"/>
+      <shield id="3" health="0" defense="40" price="11" priceType="1" accessLevel="1"/>
+      <shield id="4" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <shield id="5" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <shield id="6" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <shield id="7" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <shield id="8" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <shield id="9" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <shield id="10" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <shield id="11" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <shield id="12" health="" defense="" price="11" priceType="1" accessLevel="1"/>
     </equipment>
     <equipment name="armors" type="1">
-      <armor id="1" health="" defense="" price="11" priceType="1"/>
-      <armor id="2" health="" defense="" price="11" priceType="1"/>
-      <armor id="3" health="" defense="" price="11" priceType="1"/>
-      <armor id="4" health="" defense="" price="11" priceType="1"/>
-      <armor id="5" health="" defense="" price="11" priceType="1"/>
-      <armor id="6" health="" defense="" price="11" priceType="1"/>
-      <armor id="7" health="" defense="" price="11" priceType="1"/>
-      <armor id="8" health="" defense="" price="11" priceType="1"/>
-      <armor id="9" health="" defense="" price="11" priceType="1"/>
-      <armor id="10" health="" defense="" price="11" priceType="1"/>
-      <armor id="11" health="" defense="" price="11" priceType="1"/>
-      <armor id="12" health="" defense="" price="11" priceType="1"/>
+      <armor id="1" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="2" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="3" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="4" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="5" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="6" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="7" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="8" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="9" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="10" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="11" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="12" health="" defense="" price="11" priceType="1" accessLevel="1"/>
     </equipment>
     <equipment name="boots" type="4">
-      <boots id="1" health="" defense="" agility="" price="11" priceType="1"/>
-      <boots id="2" health="" defense="" agility="" price="11" priceType="1"/>
-      <boots id="3" health="" defense="" agility="" price="11" priceType="1"/>
-      <boots id="4" health="" defense="" agility="" price="11" priceType="1"/>
-      <boots id="5" health="" defense="" agility="" price="11" priceType="1"/>
-      <boots id="6" health="" defense="" agility="" price="11" priceType="1"/>
-      <boots id="7" health="" defense="" agility="" price="11" priceType="1"/>
-      <boots id="8" health="" defense="" agility="" price="11" priceType="1"/>
-      <boots id="9" health="" defense="" agility="" price="11" priceType="1"/>
-      <boots id="10" health="" defense="" agility="" price="11" priceType="1"/>
-      <boots id="11" health="" defense="" agility="" price="11" priceType="1"/>
-      <boots id="12" health="" defense="" agility="" price="11" priceType="1"/>
+      <boots id="1" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="2" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="3" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="6" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="7" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="8" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="9" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="10" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="11" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="12" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
     </equipment>
     <equipment name="gloves" type="2">
-      <gloves id="1" health="" defense="" agility="" price="11" priceType="1"/>
-      <gloves id="2" health="" defense="" agility="" price="11" priceType="1"/>
-      <gloves id="3" health="" defense="" agility="" price="11" priceType="1"/>
-      <gloves id="4" health="" defense="" agility="" price="11" priceType="1"/>
-      <gloves id="5" health="" defense="" agility="" price="11" priceType="1"/>
-      <gloves id="6" health="" defense="" agility="" price="11" priceType="1"/>
-      <gloves id="7" health="" defense="" agility="" price="11" priceType="1"/>
-      <gloves id="8" health="" defense="" agility="" price="11" priceType="1"/>
-      <gloves id="9" health="" defense="" agility="" price="11" priceType="1"/>
-      <gloves id="10" health="" defense="" agility="" price="11" priceType="1"/>
-      <gloves id="11" health="" defense="" agility="" price="11" priceType="1"/>
-      <gloves id="12" health="" defense="" agility="" price="11" priceType="1"/>
+      <gloves id="1" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="2" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="3" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="6" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="7" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="8" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="9" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="10" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="11" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="12" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
     </equipment>
     <equipment name="amulets" type="6">
       <amulet id="1" agility="" price="11" priceType="2" collection="15"/>
@@ -330,9 +329,86 @@
     </elexirs>
   </scrollElexir>
   <levels>
-    <level id="1" level_after_fight="2" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="2" level_after_fight="5" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="3" level_after_fight="10" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="1" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="2" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="3" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="4" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="5" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="6" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="7" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="8" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="9" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="10" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="11" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="12" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="13" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="14" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="15" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="16" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="17" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="18" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="19" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="20" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="21" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="22" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="23" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="24" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="25" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="26" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="27" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="28" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="29" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="30" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="31" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="32" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="33" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="34" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="35" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="36" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="37" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="38" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="39" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="40" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="41" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="42" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="43" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="44" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="45" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="46" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="47" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="48" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="49" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="50" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="51" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="52" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="53" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="54" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="55" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="56" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="57" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="58" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="59" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="60" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="61" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="62" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="63" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="64" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="65" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="66" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="67" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="68" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="69" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="70" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="71" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="72" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="73" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="74" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="75" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="76" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="77" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="78" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="79" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="80" experience="100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
   </levels>
   <mines>
     <mine id="1">
