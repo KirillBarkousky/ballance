@@ -503,18 +503,18 @@
   </mines>
   <bank>
     <golds>
-      <price id="1" count="300"/>
-      <price id="2" count="900"/>
-      <price id="3" count="1500"/>
-      <price id="4" count="1700"/>
-      <price id="5" count="3000"/>
+      <price id="1" count="300" productId="com.alawar.fightme.coins1" />
+      <price id="2" count="900" productId="com.alawar.fightme.coins2" />
+      <price id="3" count="1500" productId="com.alawar.fightme.coins3" />
+      <price id="4" count="1700" productId="com.alawar.fightme.coins4" />
+      <price id="5" count="3000" productId="com.alawar.fightme.coins5" />
     </golds>
     <gems>
-      <price id="1" count="30"/>
-      <price id="2" count="90"/>
-      <price id="3" count="150"/>
-      <price id="4" count="170"/>
-      <price id="5" count="300"/>
+      <price id="1" count="30" productId="com.alawar.fightme.gems1" />
+      <price id="2" count="90" productId="com.alawar.fightme.gems2" />
+      <price id="3" count="150" productId="com.alawar.fightme.gems3" />
+      <price id="4" count="170" productId="com.alawar.fightme.gems4" />
+      <price id="5" count="300" productId="com.alawar.fightme.gems5" />
     </gems>
   </bank>
 </balance>
