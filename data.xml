@@ -213,18 +213,18 @@
       <sword id="24" strength="1" price="11" priceType="2" accessLevel="1"/>      
     </equipment>
     <equipment name="shields" type="3">
-      <shield id="1" health="0" defense="30" price="11" priceType="1" accessLevel="1"/>
+      <shield id="1" strength="1" health="0" defense="30" price="11" priceType="1" accessLevel="1"/>
       <shield id="2" health="0" defense="35" price="11" priceType="1" accessLevel="1"/>
       <shield id="3" health="0" defense="40" price="11" priceType="2" accessLevel="1"/>
-      <shield id="4" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="5" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="6" health="" defense="" price="11" priceType="2" accessLevel="1"/>
-      <shield id="7" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="8" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="9" health="" defense="" price="11" priceType="2" accessLevel="1"/>
-      <shield id="10" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="11" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="12" health="" defense="" price="11" priceType="2" accessLevel="1"/>
+      <shield id="4"  price="11" priceType="1" accessLevel="1"/>
+      <shield id="5" price="11" priceType="1" accessLevel="1"/>
+      <shield id="6"  price="11" priceType="2" accessLevel="1"/>
+      <shield id="7"  price="11" priceType="1" accessLevel="1"/>
+      <shield id="8"  price="11" priceType="1" accessLevel="1"/>
+      <shield id="9"  price="11" priceType="2" accessLevel="1"/>
+      <shield id="10"  price="11" priceType="1" accessLevel="1"/>
+      <shield id="11"  price="11" priceType="1" accessLevel="1"/>
+      <shield id="12"  price="11" priceType="2" accessLevel="1"/>
     </equipment>
     <equipment name="armors" type="1">
       <armor id="1" health="" defense="" price="11" priceType="1" accessLevel="1"/>
