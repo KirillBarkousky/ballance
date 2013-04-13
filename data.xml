@@ -516,5 +516,10 @@
       <price id="4" count="170" productId="com.alawar.fightme.gems4" />
       <price id="5" count="300" productId="com.alawar.fightme.gems5" />
     </gems>
+    <energy>
+      <price id="1" count="0" productId="com.alawar.fightme.fullenergy" />
+      <price id="2" count="86400" productId="com.alawar.fightme.1dayenergy" />
+      <price id="3" count="604800" productId="com.alawar.fightme.1weekenergy" />
+</energy>
   </bank>
 </balance>
