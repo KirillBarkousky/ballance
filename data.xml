@@ -1,11 +1,12 @@
 <balance>
+  <multiFightDelay value="150"/>
   <characters_all>
-    <characters name="main" type="100">
+    <characters name="main">
       <character id="1" health="100" strength="0" defense="0" magic_defense="0" fortune="0" agility="0"/>
       <character id="2" health="100" strength="0" defense="0" magic_defense="0" fortune="0" agility="0"/>
     </characters>
     <characters name="dwarves" type="1">
-      <character id="1" health="100" strength="35" defense="10" magic_defense="1" fortune="1" agility="1" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="1" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
       <character id="2" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
       <character id="3" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
       <character id="4" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
@@ -161,50 +162,110 @@
       <character id="1" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
     </characters>
   </characters_all>
+  <rating>
+  </rating>
+  <pveMulti>
+    <experience_win>
+      <range min="0" max="20" rate="1"/>
+      <range min="21" max="40" rate="0.5"/>
+      <range min="41" max="60" rate="0.4"/>
+      <range min="61" max="80" rate="0.3"/>
+    </experience_win>
+    <experience_lose>
+      <range min="0" max="20" rate="0.1"/>
+      <range min="21" max="40" rate="0.05"/>
+      <range min="41" max="60" rate="0.04"/>
+      <range min="61" max="80" rate="0.03"/>
+    </experience_lose>
+    <stuff_win>
+      <equipment id="1" type="1"/>
+      <equipment id="1" type="2"/>
+      <equipment id="1" type="3"/>
+    </stuff_win>
+  </pveMulti>
   <pets name="helpers">
-      <character id="1" strength="10" frequency="5">
-        <upgrades>
-          <upgrade id="1" time="700" price="1" boostPrice="3" accelerat="1"/>
-          <upgrade id="2" time="700" price="1" boostPrice="3" accelerat="2"/>
-          <upgrade id="3" time="700" price="1" boostPrice="3" accelerat="3"/>
-          <upgrade id="4" time="700" price="1" boostPrice="3" accelerat="4"/>
-          <upgrade id="5" time="700" price="1" boostPrice="3" accelerat="5"/>
-          <upgrade id="6" time="700" price="1" boostPrice="3" accelerat="6"/>
-          <upgrade id="7" time="700" price="1" boostPrice="3" accelerat="7"/>
-          <upgrade id="8" time="700" price="1" boostPrice="3" accelerat="8"/>
-          <upgrade id="9" time="700" price="1" boostPrice="3" accelerat="9"/>
-          <upgrade id="10" time="700" price="1" boostPrice="3" accelerat="10"/>
-        </upgrades>
-      </character>
-      <character id="2" strength="15" frequency="4">
-        <upgrades>
-          <upgrade id="1" time="700" price="1" boostPrice="3" accelerat="1"/>
-          <upgrade id="2" time="700" price="1" boostPrice="3" accelerat="2"/>
-          <upgrade id="3" time="700" price="1" boostPrice="3" accelerat="3"/>
-          <upgrade id="4" time="700" price="1" boostPrice="3" accelerat="4"/>
-          <upgrade id="5" time="700" price="1" boostPrice="3" accelerat="5"/>
-          <upgrade id="6" time="700" price="1" boostPrice="3" accelerat="6"/>
-          <upgrade id="7" time="700" price="1" boostPrice="3" accelerat="7"/>
-          <upgrade id="8" time="700" price="1" boostPrice="3" accelerat="8"/>
-          <upgrade id="9" time="700" price="1" boostPrice="3" accelerat="9"/>
-          <upgrade id="10" time="700" price="1" boostPrice="3" accelerat="10"/>
-        </upgrades>
-      </character>
-      <character id="3" strength="20" frequency="2">
-        <upgrades>
-          <upgrade id="1" time="700" price="1" boostPrice="3" accelerat="1"/>
-          <upgrade id="2" time="700" price="1" boostPrice="3" accelerat="2"/>
-          <upgrade id="3" time="700" price="1" boostPrice="3" accelerat="3"/>
-          <upgrade id="4" time="700" price="1" boostPrice="3" accelerat="4"/>
-          <upgrade id="5" time="700" price="1" boostPrice="3" accelerat="5"/>
-          <upgrade id="6" time="700" price="1" boostPrice="3" accelerat="6"/>
-          <upgrade id="7" time="700" price="1" boostPrice="3" accelerat="7"/>
-          <upgrade id="8" time="700" price="1" boostPrice="3" accelerat="8"/>
-          <upgrade id="9" time="700" price="1" boostPrice="3" accelerat="9"/>
-          <upgrade id="10" time="700" price="1" boostPrice="3" accelerat="10"/>
-        </upgrades>
-      </character>
+    <character id="1" strength="10" frequency="5">
+      <upgrades>
+        <upgrade id="1" time="700" price="1" boostPrice="3" accelerat="1"/>
+        <upgrade id="2" time="700" price="1" boostPrice="3" accelerat="2"/>
+        <upgrade id="3" time="700" price="1" boostPrice="3" accelerat="3"/>
+        <upgrade id="4" time="700" price="1" boostPrice="3" accelerat="4"/>
+        <upgrade id="5" time="700" price="1" boostPrice="3" accelerat="5"/>
+        <upgrade id="6" time="700" price="1" boostPrice="3" accelerat="6"/>
+        <upgrade id="7" time="700" price="1" boostPrice="3" accelerat="7"/>
+        <upgrade id="8" time="700" price="1" boostPrice="3" accelerat="8"/>
+        <upgrade id="9" time="700" price="1" boostPrice="3" accelerat="9"/>
+        <upgrade id="10" time="700" price="1" boostPrice="3" accelerat="10"/>
+      </upgrades>
+    </character>
+    <character id="2" strength="15" frequency="4">
+      <upgrades>
+        <upgrade id="1" time="700" price="1" boostPrice="3" accelerat="1"/>
+        <upgrade id="2" time="700" price="1" boostPrice="3" accelerat="2"/>
+        <upgrade id="3" time="700" price="1" boostPrice="3" accelerat="3"/>
+        <upgrade id="4" time="700" price="1" boostPrice="3" accelerat="4"/>
+        <upgrade id="5" time="700" price="1" boostPrice="3" accelerat="5"/>
+        <upgrade id="6" time="700" price="1" boostPrice="3" accelerat="6"/>
+        <upgrade id="7" time="700" price="1" boostPrice="3" accelerat="7"/>
+        <upgrade id="8" time="700" price="1" boostPrice="3" accelerat="8"/>
+        <upgrade id="9" time="700" price="1" boostPrice="3" accelerat="9"/>
+        <upgrade id="10" time="700" price="1" boostPrice="3" accelerat="10"/>
+      </upgrades>
+    </character>
+    <character id="3" strength="20" frequency="2">
+      <upgrades>
+        <upgrade id="1" time="700" price="1" boostPrice="3" accelerat="1"/>
+        <upgrade id="2" time="700" price="1" boostPrice="3" accelerat="2"/>
+        <upgrade id="3" time="700" price="1" boostPrice="3" accelerat="3"/>
+        <upgrade id="4" time="700" price="1" boostPrice="3" accelerat="4"/>
+        <upgrade id="5" time="700" price="1" boostPrice="3" accelerat="5"/>
+        <upgrade id="6" time="700" price="1" boostPrice="3" accelerat="6"/>
+        <upgrade id="7" time="700" price="1" boostPrice="3" accelerat="7"/>
+        <upgrade id="8" time="700" price="1" boostPrice="3" accelerat="8"/>
+        <upgrade id="9" time="700" price="1" boostPrice="3" accelerat="9"/>
+        <upgrade id="10" time="700" price="1" boostPrice="3" accelerat="10"/>
+      </upgrades>
+    </character>
   </pets>
+  <achievements>
+    <achievement id="1" title="Р“СЂРѕР·Р° РіРЅРѕРјРѕРІ">
+      <levels>
+        <level id="1" title="РЈР±РёС‚СЊ 50 РіРЅРѕРјРѕРІ" progress="50" reward_crystal="1" reward_experience="1"/>
+        <level id="2" title="РЈР±РёС‚СЊ 500 РіРЅРѕРјРѕРІ" progress="500" reward_crystal="1" reward_experience="1"/>
+        <level id="3" title="РЈР±РёС‚СЊ 1000 РіРЅРѕРјРѕРІ" progress="1000" reward_crystal="1" reward_experience="1"/>
+      </levels>
+    </achievement>
+    <achievement id="2" title="Р“СЂРѕР·Р° СЌР»СЊС„РѕРІ">
+      <levels>
+        <level id="1" title="РЈР±РёС‚СЊ 50 СЌР»СЊС„РѕРІ" progress="50" reward_crystal="1" reward_experience="1"/>
+        <level id="2" title="РЈР±РёС‚СЊ 500 СЌР»СЊС„РѕРІ" progress="500" reward_crystal="1" reward_experience="1"/>
+        <level id="3" title="РЈР±РёС‚СЊ 1000 СЌР»СЊС„РѕРІ" progress="1000" reward_crystal="1" reward_experience="1"/>
+      </levels>
+    </achievement>
+  </achievements>
+  <leaderboards>
+    <leaderboard id="1">
+      <scores>
+        <range top_position="0" bottom_position="10" reward_crystal="2" reward_gold="2"/>
+        <range top_position="11" bottom_position="20" reward_crystal="2" reward_gold="2"/>
+        <range top_position="21" bottom_position="40" reward_crystal="2" reward_gold="2"/>
+      </scores>
+    </leaderboard>
+    <leaderboard id="2">
+      <scores>
+        <range top_position="0" bottom_position="10" reward_crystal="2" reward_gold="2"/>
+        <range top_position="11" bottom_position="20" reward_crystal="2" reward_gold="2"/>
+        <range top_position="21" bottom_position="40" reward_crystal="2" reward_gold="2"/>
+      </scores>
+    </leaderboard>
+  </leaderboards>
+  <pvp>
+    <reward glory="1"/>
+  </pvp>
+  <pveSingleRepeat>
+    <range min_level="0" max_level="49" rate="0.2"/>
+    <range min_level="50" rate="0.5"/>
+  </pveSingleRepeat>
   <equipments>
     <equipment name="swords" type="7">
       <sword id="1" strength="40" price="11" priceType="1" accessLevel="1"/>
@@ -519,7 +580,7 @@
           </battle>
         </battles>
       </level>
-    <level id="4">
+      <level id="4">
         <battles>
           <battle id="1">
             <opponent type="1" id="16"/>
@@ -548,7 +609,7 @@
           </battle>
         </battles>
       </level>
-     <level id="5">
+      <level id="5">
         <battles>
           <battle id="1">
             <opponent type="1" id="21"/>
@@ -743,5 +804,15 @@
       <price id="5" count="300"/>
     </gems>
   </bank>
+  <energy>
+    <price id="1" count="0" productId="com.alawar.fightme.fullenergy"/>
+    <price id="2" count="86400" productId="com.alawar.fightme.1dayenergy"/>
+    <price id="3" count="604800" productId="com.alawar.fightme.1weekenergy"/>
+  </energy>
 </balance>
+
+
+
+
+
 
