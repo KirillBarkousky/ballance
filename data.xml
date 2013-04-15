@@ -5,7 +5,7 @@
       <character id="2" health="100" strength="0" defense="0" magic_defense="0" fortune="0" agility="0"/>
     </characters>
     <characters name="dwarves" type="1">
-      <character id="1" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="1" health="100" strength="35" defense="10" magic_defense="1" fortune="1" agility="1" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
       <character id="2" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
       <character id="3" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
       <character id="4" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
