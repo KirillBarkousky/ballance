@@ -497,28 +497,28 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="1"/>
-            <reward_win experience="50" gold="3" crystal="3"/>
+            <reward_win experience="50" gold="3" gems="0"/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="2"/>
-            <reward_win experience="55" gold="3" crystal="3"/>
+            <reward_win experience="55" gold="3" gems="0"/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="3"/>
-            <reward_win experience="65" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="65" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="4"/>
-            <reward_win experience="60" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="60" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="5"/>
-            <reward_win experience="80" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="80" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
         </battles>
       </level>
@@ -526,28 +526,28 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="6"/>
-            <reward_win experience="70" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="70" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="7"/>
-            <reward_win experience="70" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="70" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="8"/>
-            <reward_win experience="90" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="90" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="9"/>
-            <reward_win experience="80" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="80" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="10"/>
-            <reward_win experience="100" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="100" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
         </battles>
       </level>
@@ -555,28 +555,28 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="11"/>
-            <reward_win experience="90" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="90" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="12"/>
-            <reward_win experience="90" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="90" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="13"/>
-            <reward_win experience="120" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="120" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="14"/>
-            <reward_win experience="100" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="100" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="15"/>
-            <reward_win experience="150" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="150" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
         </battles>
       </level>
@@ -584,28 +584,28 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="16"/>
-            <reward_win experience="120" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="120" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="17"/>
-            <reward_win experience="120" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="120" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="18"/>
-            <reward_win experience="140" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="140" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="19"/>
-            <reward_win experience="130" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="130" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="20"/>
-            <reward_win experience="200" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="200" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
         </battles>
       </level>
@@ -613,28 +613,28 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="21"/>
-            <reward_win experience="170" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="170" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="22"/>
-            <reward_win experience="170" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="170" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="23"/>
-            <reward_win experience="200" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="200" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="24"/>
-            <reward_win experience="190" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="190" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="25"/>
-            <reward_win experience="250" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="250" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
         </battles>
       </level>
@@ -642,28 +642,28 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="26"/>
-            <reward_win experience="210" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="210" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="27"/>
-            <reward_win experience="210" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="210" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="28"/>
-            <reward_win experience="250" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="250" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="29"/>
-            <reward_win experience="240" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="240" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="30"/>
-            <reward_win experience="320" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="320" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
         </battles>
       </level>
@@ -671,28 +671,28 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
-            <reward_win experience="290" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="290" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="32"/>
-            <reward_win experience="290" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="290" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="33"/>
-            <reward_win experience="320" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="320" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="310" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="3" crystal="3"/>
-            <reward_lose experience="1"/>
+            <reward_win experience="380" gold="3" gems="0"/>
+            <reward_lose experience="5"/>
           </battle>
         </battles>
       </level>
