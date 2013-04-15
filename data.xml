@@ -162,8 +162,7 @@
       <character id="1" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
     </characters>
   </characters_all>
-  <rating>
-  </rating>
+  <rating/>
   <pveMulti>
     <experience_win>
       <range min="0" max="20" rate="1"/>
@@ -268,12 +267,12 @@
   </pveSingleRepeat>
   <equipments>
     <equipment name="swords" type="7">
-      <sword id="1" strength="40" price="11" priceType="1" accessLevel="1"/>
-      <sword id="2" strength="45" price="11" priceType="1" accessLevel="2"/>
-      <sword id="3" strength="50" price="11" priceType="1" accessLevel="4"/>
-      <sword id="4" strength="1" price="11" priceType="1" accessLevel="8"/>
-      <sword id="5" strength="1" price="11" priceType="1" accessLevel="12"/>
-      <sword id="6" strength="1" price="11" priceType="2" accessLevel="1"/>
+      <sword id="1" strength="40" price="200" priceType="1" accessLevel="1"/>
+      <sword id="2" strength="45" price="350" priceType="1" accessLevel="2"/>
+      <sword id="3" strength="50" price="500" priceType="1" accessLevel="4"/>
+      <sword id="4" strength="1" price="750" priceType="1" accessLevel="8"/>
+      <sword id="5" strength="1" price="1000" priceType="1" accessLevel="12"/>
+      <sword id="6" strength="1" price="70" priceType="2" accessLevel="1"/>
       <sword id="7" strength="1" price="11" priceType="1" accessLevel="1"/>
       <sword id="8" strength="1" price="11" priceType="1" accessLevel="1"/>
       <sword id="9" strength="1" price="11" priceType="1" accessLevel="1"/>
@@ -294,93 +293,93 @@
       <sword id="24" strength="1" price="11" priceType="2" accessLevel="60"/>
     </equipment>
     <equipment name="shields" type="3">
-      <shield id="1" health="0" defense="30" price="11" priceType="1" accessLevel="1"/>
-      <shield id="2" health="0" defense="35" price="11" priceType="1" accessLevel="4"/>
-      <shield id="3" health="0" defense="40" price="11" priceType="1" accessLevel="1"/>
+      <shield id="1" health="0" defense="30" price="150" priceType="1" accessLevel="1"/>
+      <shield id="2" health="0" defense="35" price="400" priceType="1" accessLevel="4"/>
+      <shield id="3" health="0" defense="40" price="45" priceType="2" accessLevel="1"/>
       <shield id="4" health="" defense="" price="11" priceType="1" accessLevel="1"/>
       <shield id="5" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="6" health="" defense="" price="11" priceType="1" accessLevel="20"/>
+      <shield id="6" health="" defense="" price="11" priceType="2" accessLevel="20"/>
       <shield id="7" health="" defense="" price="11" priceType="1" accessLevel="1"/>
       <shield id="8" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="9" health="" defense="" price="11" priceType="1" accessLevel="40"/>
+      <shield id="9" health="" defense="" price="11" priceType="2" accessLevel="40"/>
       <shield id="10" health="" defense="" price="11" priceType="1" accessLevel="1"/>
       <shield id="11" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="12" health="" defense="" price="11" priceType="1" accessLevel="60"/>
+      <shield id="12" health="" defense="" price="11" priceType="2" accessLevel="60"/>
     </equipment>
     <equipment name="armors" type="1">
-      <armor id="1" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <armor id="2" health="" defense="" price="11" priceType="1" accessLevel="8"/>
-      <armor id="3" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="1" health="" defense="" price="150" priceType="1" accessLevel="1"/>
+      <armor id="2" health="" defense="" price="700" priceType="1" accessLevel="8"/>
+      <armor id="3" health="" defense="" price="45" priceType="2" accessLevel="1"/>
       <armor id="4" health="" defense="" price="11" priceType="1" accessLevel="1"/>
       <armor id="5" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <armor id="6" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="6" health="" defense="" price="11" priceType="2" accessLevel="1"/>
       <armor id="7" health="" defense="" price="11" priceType="1" accessLevel="1"/>
       <armor id="8" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <armor id="9" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="9" health="" defense="" price="11" priceType="2" accessLevel="1"/>
       <armor id="10" health="" defense="" price="11" priceType="1" accessLevel="1"/>
       <armor id="11" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <armor id="12" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <armor id="12" health="" defense="" price="11" priceType="2" accessLevel="1"/>
     </equipment>
     <equipment name="boots" type="4">
-      <boots id="1" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <boots id="2" health="" defense="" agility="" price="11" priceType="1" accessLevel="6"/>
-      <boots id="3" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="1" health="" defense="" agility="" price="60" priceType="1" accessLevel="1"/>
+      <boots id="2" health="" defense="" agility="" price="300" priceType="1" accessLevel="6"/>
+      <boots id="3" health="" defense="" agility="" price="45" priceType="2" accessLevel="1"/>
       <boots id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
       <boots id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <boots id="6" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="6" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
       <boots id="7" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
       <boots id="8" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <boots id="9" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="9" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
       <boots id="10" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
       <boots id="11" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <boots id="12" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <boots id="12" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
     </equipment>
     <equipment name="gloves" type="2">
-      <gloves id="1" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <gloves id="2" health="" defense="" agility="" price="11" priceType="1" accessLevel="4"/>
-      <gloves id="3" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="1" health="" defense="" agility="" price="40" priceType="1" accessLevel="1"/>
+      <gloves id="2" health="" defense="" agility="" price="125" priceType="1" accessLevel="4"/>
+      <gloves id="3" health="" defense="" agility="" price="45" priceType="2" accessLevel="1"/>
       <gloves id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
       <gloves id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <gloves id="6" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="6" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
       <gloves id="7" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
       <gloves id="8" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <gloves id="9" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="9" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
       <gloves id="10" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
       <gloves id="11" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <gloves id="12" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
+      <gloves id="12" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
     </equipment>
     <equipment name="amulets" type="6">
-      <amulet id="1" agility="" price="11" priceType="2" collection="15" accessLevel="1"/>
+      <amulet id="1" agility="" price="65" priceType="2" collection="15" accessLevel="1"/>
       <amulet id="2" agility="" price="11" priceType="2" collection="16" accessLevel="20"/>
       <amulet id="3" agility="" price="11" priceType="2" collection="17" accessLevel="20"/>
       <amulet id="4" agility="" price="11" priceType="2" collection="18" accessLevel="20"/>
       <amulet id="5" agility="" price="11" priceType="2" collection="19" accessLevel="20"/>
     </equipment>
     <equipment name="mascots" type="5">
-      <mascot id="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="10" accessLevel="1"/>
+      <mascot id="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="65" priceType="2" collection="10" accessLevel="1"/>
       <mascot id="2" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="11" accessLevel="20"/>
       <mascot id="3" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="12" accessLevel="20"/>
       <mascot id="4" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="13" accessLevel="20"/>
       <mascot id="5" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="14" accessLevel="20"/>
     </equipment>
     <equipment name="rings" type="8">
-      <ring id="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="20" accessLevel="1"/>
+      <ring id="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="65" priceType="2" collection="20" accessLevel="1"/>
       <ring id="2" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="21" accessLevel="20"/>
       <ring id="3" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="22" accessLevel="20"/>
       <ring id="4" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="23" accessLevel="20"/>
       <ring id="5" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="24" accessLevel="20"/>
     </equipment>
     <equipment name="scrolls" type="10">
-      <scroll id="1" price="11" priceType="2" collection="2"/>
-      <scroll id="2" price="11" priceType="2" collection="3"/>
-      <scroll id="3" price="11" priceType="2" collection="4"/>
-      <scroll id="4" price="11" priceType="2" collection="5"/>
+      <scroll id="1" price="50" priceType="1" collection="2"/>
+      <scroll id="2" price="50" priceType="1" collection="3"/>
+      <scroll id="3" price="50" priceType="1" collection="4"/>
+      <scroll id="4" price="50" priceType="1" collection="5"/>
     </equipment>
     <equipment name="elixirs" type="11">
-      <elixir id="1" price="11" priceType="2" collection="6"/>
-      <elixir id="2" price="11" priceType="2" collection="7"/>
-      <elixir id="3" price="11" priceType="2" collection="8"/>
-      <elixir id="4" price="11" priceType="2" collection="9"/>
+      <elixir id="1" price="50" priceType="1" collection="6"/>
+      <elixir id="2" price="50" priceType="1" collection="7"/>
+      <elixir id="3" price="50" priceType="1" collection="8"/>
+      <elixir id="4" price="50" priceType="1" collection="9"/>
     </equipment>
   </equipments>
   <scrollElexir>
@@ -497,7 +496,7 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="1"/>
-            <reward_win experience="50" gold="3" gems="0"/>
+            <reward_win experience="50" gold="500" gems="0"/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
@@ -797,11 +796,11 @@
       <price id="5" count="3000"/>
     </golds>
     <gems>
-      <price id="1" count="30"/>
-      <price id="2" count="90"/>
-      <price id="3" count="150"/>
-      <price id="4" count="170"/>
-      <price id="5" count="300"/>
+      <price id="1" count="200"/>
+      <price id="2" count="450"/>
+      <price id="3" count="1000"/>
+      <price id="4" count="5500"/>
+      <price id="5" count="12000"/>
     </gems>
   </bank>
   <energy>
@@ -814,6 +813,7 @@
     <gems count="10"/>
   </startMoney>
 </balance>
+
 
 
 
