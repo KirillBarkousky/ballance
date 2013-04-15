@@ -809,6 +809,10 @@
     <price id="2" count="86400" productId="com.alawar.fightme.1dayenergy"/>
     <price id="3" count="604800" productId="com.alawar.fightme.1weekenergy"/>
   </energy>
+  <startMoney>
+    <gold count="1000"/>
+    <gems count="10"/>
+  </startMoney>
 </balance>
 
 
