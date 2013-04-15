@@ -1,6 +1,6 @@
 <balance>
   <characters_all>
-    <characters name="main">
+    <characters name="main" type="100">
       <character id="1" health="100" strength="0" defense="0" magic_defense="0" fortune="0" agility="0"/>
       <character id="2" health="100" strength="0" defense="0" magic_defense="0" fortune="0" agility="0"/>
     </characters>
