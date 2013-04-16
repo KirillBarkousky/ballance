@@ -259,7 +259,7 @@
     </leaderboard>
   </leaderboards>
   <pvp>
-    <reward glory="1"/>
+    <reward glory="10"/>
   </pvp>
   <pveSingleRepeat>
     <range min_level="0" max_level="49" rate="0.2"/>
@@ -273,66 +273,66 @@
       <sword id="4" strength="150" price="750" priceType="1" accessLevel="8"/>
       <sword id="5" strength="230" price="1000" priceType="1" accessLevel="12"/>
       <sword id="6" strength="300" price="70" priceType="2" accessLevel="1"/>
-      <sword id="7" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="8" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="9" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="10" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="11" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="7" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="8" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="9" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="10" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="11" strength="1" price="11" priceType="1" accessLevel="100"/>
       <sword id="12" strength="1" price="11" priceType="2" accessLevel="20"/>
-      <sword id="13" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="14" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="15" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="16" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="17" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="13" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="14" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="15" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="16" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="17" strength="1" price="11" priceType="1" accessLevel="100"/>
       <sword id="18" strength="1" price="11" priceType="2" accessLevel="40"/>
-      <sword id="19" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="20" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="21" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="22" strength="1" price="11" priceType="1" accessLevel="1"/>
-      <sword id="23" strength="1" price="11" priceType="1" accessLevel="1"/>
+      <sword id="19" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="20" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="21" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="22" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="23" strength="1" price="11" priceType="1" accessLevel="100"/>
       <sword id="24" strength="1" price="11" priceType="2" accessLevel="60"/>
     </equipment>
     <equipment name="shields" type="3">
       <shield id="1" health="5" defense="30" price="150" priceType="1" accessLevel="1"/>
       <shield id="2" health="20" defense="50" price="400" priceType="1" accessLevel="4"/>
       <shield id="3" health="50" defense="100" price="45" priceType="2" accessLevel="1"/>
-      <shield id="4" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="5" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <shield id="4" health="" defense="" price="11" priceType="1" accessLevel="100"/>
+      <shield id="5" health="" defense="" price="11" priceType="1" accessLevel="100"/>
       <shield id="6" health="" defense="" price="11" priceType="2" accessLevel="20"/>
-      <shield id="7" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="8" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <shield id="7" health="" defense="" price="11" priceType="1" accessLevel="100"/>
+      <shield id="8" health="" defense="" price="11" priceType="1" accessLevel="100"/>
       <shield id="9" health="" defense="" price="11" priceType="2" accessLevel="40"/>
-      <shield id="10" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <shield id="11" health="" defense="" price="11" priceType="1" accessLevel="1"/>
+      <shield id="10" health="" defense="" price="11" priceType="1" accessLevel="100"/>
+      <shield id="11" health="" defense="" price="11" priceType="1" accessLevel="100"/>
       <shield id="12" health="" defense="" price="11" priceType="2" accessLevel="60"/>
     </equipment>
     <equipment name="armors" type="1">
       <armor id="1" health="5" defense="10" price="150" priceType="1" accessLevel="1"/>
       <armor id="2" health="20" defense="40" price="700" priceType="1" accessLevel="8"/>
       <armor id="3" health="50" defense="70" price="45" priceType="2" accessLevel="1"/>
-      <armor id="4" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <armor id="5" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <armor id="6" health="" defense="" price="11" priceType="2" accessLevel="1"/>
-      <armor id="7" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <armor id="8" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <armor id="9" health="" defense="" price="11" priceType="2" accessLevel="1"/>
-      <armor id="10" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <armor id="11" health="" defense="" price="11" priceType="1" accessLevel="1"/>
-      <armor id="12" health="" defense="" price="11" priceType="2" accessLevel="1"/>
+      <armor id="4" health="" defense="" price="11" priceType="1" accessLevel="100"/>
+      <armor id="5" health="" defense="" price="11" priceType="1" accessLevel="100"/>
+      <armor id="6" health="" defense="" price="11" priceType="2" accessLevel="20"/>
+      <armor id="7" health="" defense="" price="11" priceType="1" accessLevel="100"/>
+      <armor id="8" health="" defense="" price="11" priceType="1" accessLevel="100"/>
+      <armor id="9" health="" defense="" price="11" priceType="2" accessLevel="40"/>
+      <armor id="10" health="" defense="" price="11" priceType="1" accessLevel="100"/>
+      <armor id="11" health="" defense="" price="11" priceType="1" accessLevel="100"/>
+      <armor id="12" health="" defense="" price="11" priceType="2" accessLevel="60"/>
     </equipment>
     <equipment name="boots" type="4">
       <boots id="1" health="5" defense="10" agility="10" price="60" priceType="1" accessLevel="1"/>
       <boots id="2" health="15" defense="20" agility="10" price="300" priceType="1" accessLevel="6"/>
       <boots id="3" health="30" defense="30" agility="30" price="20" priceType="2" accessLevel="1"/>
-      <boots id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <boots id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <boots id="6" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
-      <boots id="7" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <boots id="8" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <boots id="9" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
-      <boots id="10" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <boots id="11" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <boots id="12" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
+      <boots id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <boots id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <boots id="6" health="" defense="" agility="" price="11" priceType="2" accessLevel="20"/>
+      <boots id="7" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <boots id="8" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <boots id="9" health="" defense="" agility="" price="11" priceType="2" accessLevel="40"/>
+      <boots id="10" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <boots id="11" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <boots id="12" health="" defense="" agility="" price="11" priceType="2" accessLevel="60"/>
     </equipment>
     <equipment name="gloves" type="2">
       <gloves id="1" health="5" defense="5" agility="5" price="40" priceType="1" accessLevel="1"/>
@@ -384,111 +384,111 @@
   </equipments>
   <scrollElexir>
     <scrolls name="scrolls" type="10">
-      <scroll id="1" price="11" boost="5" time="600"/>
-      <scroll id="2" price="20" boost="15" time="6000"/>
-      <scroll id="3" price="71" boost="25" time="60000"/>
-      <scroll id="4" price="81" boost="45" time="600000"/>
-      <scroll id="5" price="11" boost="5" time="600"/>
-      <scroll id="6" price="20" boost="15" time="6000"/>
-      <scroll id="7" price="71" boost="25" time="60000"/>
-      <scroll id="8" price="81" boost="45" time="600000"/>
-      <scroll id="9" price="11" boost="5" time="600"/>
-      <scroll id="10" price="20" boost="15" time="6000"/>
+      <scroll id="1" price="11" boost="5" time="600" newPrice=""/>
+      <scroll id="2" price="20" boost="15" time="6000" newPrice=""/>
+      <scroll id="3" price="71" boost="25" time="60000" newPrice=""/>
+      <scroll id="4" price="81" boost="45" time="600000" newPrice=""/>
+      <scroll id="5" price="11" boost="5" time="600" newPrice=""/>
+      <scroll id="6" price="20" boost="15" time="6000" newPrice=""/>
+      <scroll id="7" price="71" boost="25" time="60000" newPrice=""/>
+      <scroll id="8" price="81" boost="45" time="600000" newPrice=""/>
+      <scroll id="9" price="11" boost="5" time="600" newPrice=""/>
+      <scroll id="10" price="20" boost="15" time="6000" newPrice=""/>
     </scrolls>
     <elexirs name="elixirs" type="11">
-      <elixir id="1" price="11" boost="5" time="600"/>
-      <elixir id="2" price="21" boost="15" time="60000"/>
-      <elixir id="3" price="41" boost="25" time="600000"/>
-      <elixir id="4" price="101" boost="45" time="60000"/>
-      <elixir id="5" price="11" boost="5" time="600"/>
-      <elixir id="6" price="21" boost="15" time="60000"/>
-      <elixir id="7" price="41" boost="25" time="600000"/>
-      <elixir id="8" price="101" boost="45" time="60000"/>
-      <elixir id="9" price="11" boost="5" time="600"/>
-      <elixir id="10" price="21" boost="15" time="60000"/>
+      <elixir id="1" price="11" boost="50" time="600" newPrice=""/>
+      <elixir id="2" price="21" boost="15" time="700" newPrice=""/>
+      <elixir id="3" price="41" boost="25" time="800" newPrice=""/>
+      <elixir id="4" price="10" boost="45" time="900" newPrice=""/>
+      <elixir id="5" price="11" boost="50" time="1000" newPrice=""/>
+      <elixir id="6" price="21" boost="15" time="1100" newPrice=""/>
+      <elixir id="7" price="41" boost="25" time="1200" newPrice=""/>
+      <elixir id="8" price="10" boost="45" time="1300" newPrice=""/>
+      <elixir id="9" price="11" boost="50" time="1400" newPrice=""/>
+      <elixir id="10" price="21" boost="15" time="1500" newPrice=""/>
     </elexirs>
   </scrollElexir>
   <levels>
-    <level id="1" experience="50" gold="50" gems="1" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="2" experience="55" gold="50" gems="1" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="3" experience="125" gold="70" gems="1" health="0" strength="5" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="4" experience="220" gold="100" gems="1" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="5" experience="270" gold="100" gems="1" health="0" strength="0" defense="5" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="6" experience="300" gold="120" gems="1" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="7" experience="350" gold="120" gems="1" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="8" experience="380" gold="170" gems="1" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="9" experience="480" gold="170" gems="1" health="15" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="10" experience="540" gold="200" gems="1" health="15" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="11" experience="640" gold="200" gems="1" health="25" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="12" experience="910" gold="200" gems="1" health="30" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="13" experience="1220" gold="250" gems="1" health="50" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="14" experience="1140" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="15" experience="1290" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="16" experience="1450" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="17" experience="1620" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="18" experience="1800" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="19" experience="1990" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="20" experience="2190" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="21" experience="2400" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="22" experience="2620" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="23" experience="2850" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="24" experience="3090" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="25" experience="3340" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="26" experience="3600" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="27" experience="3870" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="28" experience="4150" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="29" experience="4440" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="30" experience="4740" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="31" experience="5050" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="32" experience="5370" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="33" experience="5700" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="34" experience="6040" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="35" experience="6390" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="36" experience="6750" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="37" experience="7120" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="38" experience="7500" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="39" experience="7890" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="40" experience="8290" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="41" experience="8700" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="42" experience="9120" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="43" experience="9550" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="44" experience="9990" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="45" experience="10440" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="46" experience="10900" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="47" experience="11370" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="48" experience="11850" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="49" experience="12340" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="50" experience="12840" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="51" experience="13350" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="52" experience="13870" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="53" experience="14400" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="54" experience="14940" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="55" experience="15490" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="56" experience="16050" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="57" experience="16620" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="58" experience="17200" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="59" experience="17790" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="60" experience="18390" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="61" experience="19000" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="62" experience="19620" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="63" experience="20250" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="64" experience="20890" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="65" experience="21540" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="66" experience="22200" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="67" experience="22870" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="68" experience="23550" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="69" experience="24240" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="70" experience="24940" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="71" experience="25650" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="72" experience="26370" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="73" experience="27100" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="74" experience="27840" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="75" experience="28590" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="76" experience="29350" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="77" experience="30120" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="78" experience="30900" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="79" experience="31690" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="80" experience="32490" gold="100" gems="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="1" experience="50" gold="50" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="2" experience="55" gold="50" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="3" experience="125" gold="70" gems="" health="0" strength="5" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="4" experience="220" gold="100" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="5" experience="270" gold="100" gems="" health="0" strength="0" defense="5" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="6" experience="300" gold="120" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="7" experience="350" gold="120" gems="" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="8" experience="380" gold="170" gems="" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="9" experience="480" gold="170" gems="" health="15" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="10" experience="540" gold="200" gems="" health="15" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="11" experience="640" gold="200" gems="" health="25" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="12" experience="910" gold="200" gems="" health="30" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="13" experience="1220" gold="250" gems="" health="50" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="14" experience="1140" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="15" experience="1290" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="16" experience="1450" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="17" experience="1620" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="18" experience="1800" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="19" experience="1990" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="20" experience="2190" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="21" experience="2400" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="22" experience="2620" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="23" experience="2850" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="24" experience="3090" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="25" experience="3340" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="26" experience="3600" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="27" experience="3870" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="28" experience="4150" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="29" experience="4440" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="30" experience="4740" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="31" experience="5050" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="32" experience="5370" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="33" experience="5700" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="34" experience="6040" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="35" experience="6390" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="36" experience="6750" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="37" experience="7120" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="38" experience="7500" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="39" experience="7890" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="40" experience="8290" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="41" experience="8700" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="42" experience="9120" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="43" experience="9550" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="44" experience="9990" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="45" experience="10440" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="46" experience="10900" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="47" experience="11370" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="48" experience="11850" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="49" experience="12340" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="50" experience="12840" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="51" experience="13350" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="52" experience="13870" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="53" experience="14400" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="54" experience="14940" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="55" experience="15490" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="56" experience="16050" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="57" experience="16620" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="58" experience="17200" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="59" experience="17790" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="60" experience="18390" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="61" experience="19000" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="62" experience="19620" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="63" experience="20250" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="64" experience="20890" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="65" experience="21540" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="66" experience="22200" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="67" experience="22870" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="68" experience="23550" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="69" experience="24240" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="70" experience="24940" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="71" experience="25650" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="72" experience="26370" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="73" experience="27100" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="74" experience="27840" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="75" experience="28590" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="76" experience="29350" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="77" experience="30120" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="78" experience="30900" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="79" experience="31690" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="80" experience="32490" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
   </levels>
   <pveSingle>
     <levels>
@@ -496,27 +496,27 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="1"/>
-            <reward_win experience="50" gold="50" gems="1"/>
+            <reward_win experience="50" gold="50" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="2"/>
-            <reward_win experience="55" gold="50" gems="1"/>
+            <reward_win experience="55" gold="50" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="3"/>
-            <reward_win experience="65" gold="50" gems="1"/>
+            <reward_win experience="65" gold="50" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="4"/>
-            <reward_win experience="60" gold="50" gems="1"/>
+            <reward_win experience="60" gold="50" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="5"/>
-            <reward_win experience="80" gold="70" gems="1"/>
+            <reward_win experience="80" gold="70" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -525,27 +525,27 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="6"/>
-            <reward_win experience="70" gold="60" gems="1"/>
+            <reward_win experience="70" gold="60" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="7"/>
-            <reward_win experience="70" gold="60" gems="1"/>
+            <reward_win experience="70" gold="60" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="8"/>
-            <reward_win experience="90" gold="60" gems="1"/>
+            <reward_win experience="90" gold="60" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="9"/>
-            <reward_win experience="80" gold="60" gems="1"/>
+            <reward_win experience="80" gold="60" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="10"/>
-            <reward_win experience="100" gold="100" gems="1"/>
+            <reward_win experience="100" gold="100" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -554,27 +554,27 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="11"/>
-            <reward_win experience="90" gold="80" gems="1"/>
+            <reward_win experience="90" gold="80" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="12"/>
-            <reward_win experience="90" gold="80" gems="1"/>
+            <reward_win experience="90" gold="80" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="13"/>
-            <reward_win experience="120" gold="90" gems="1"/>
+            <reward_win experience="120" gold="90" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="14"/>
-            <reward_win experience="100" gold="80" gems="1"/>
+            <reward_win experience="100" gold="80" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="15"/>
-            <reward_win experience="150" gold="100" gems="1"/>
+            <reward_win experience="150" gold="100" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -583,27 +583,27 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="16"/>
-            <reward_win experience="120" gold="90" gems="1"/>
+            <reward_win experience="120" gold="90" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="17"/>
-            <reward_win experience="120" gold="90" gems="1"/>
+            <reward_win experience="120" gold="90" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="18"/>
-            <reward_win experience="140" gold="100" gems="1"/>
+            <reward_win experience="140" gold="100" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="19"/>
-            <reward_win experience="130" gold="90" gems="1"/>
+            <reward_win experience="130" gold="90" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="20"/>
-            <reward_win experience="200" gold="110" gems="1"/>
+            <reward_win experience="200" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -612,27 +612,27 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="21"/>
-            <reward_win experience="170" gold="100" gems="1"/>
+            <reward_win experience="170" gold="100" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="22"/>
-            <reward_win experience="170" gold="100" gems="1"/>
+            <reward_win experience="170" gold="100" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="23"/>
-            <reward_win experience="200" gold="110" gems="1"/>
+            <reward_win experience="200" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="24"/>
-            <reward_win experience="190" gold="100" gems="1"/>
+            <reward_win experience="190" gold="100" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="25"/>
-            <reward_win experience="250" gold="120" gems="1"/>
+            <reward_win experience="250" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -641,27 +641,27 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="26"/>
-            <reward_win experience="210" gold="110" gems="1"/>
+            <reward_win experience="210" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="27"/>
-            <reward_win experience="210" gold="110" gems="1"/>
+            <reward_win experience="210" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="28"/>
-            <reward_win experience="250" gold="120" gems="1"/>
+            <reward_win experience="250" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="29"/>
-            <reward_win experience="240" gold="110" gems="1"/>
+            <reward_win experience="240" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="30"/>
-            <reward_win experience="320" gold="130" gems="1"/>
+            <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -670,27 +670,27 @@
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
-            <reward_win experience="290" gold="110" gems="1"/>
+            <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
             <opponent type="1" id="32"/>
-            <reward_win experience="290" gold="110" gems="1"/>
+            <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
             <opponent type="1" id="33"/>
-            <reward_win experience="320" gold="130" gems="1"/>
+            <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
             <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="120" gems="1"/>
+            <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="150" gems="1"/>
+            <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -809,10 +809,16 @@
     <price id="3" count="604800" productId="com.alawar.fightme.1weekenergy"/>
   </energy>
   <startMoney>
-    <gold count="1000"/>
+    <gold count="600"/>
     <gems count="10"/>
   </startMoney>
+  <time>
+    <upgradeTimeUnit period="60" price="1" priceType="2"/>
+    <boostTimeUnit period="60" price="1" priceType="2"/>
+  </time>
 </balance>
+
+
 
 
 
