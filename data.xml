@@ -227,18 +227,18 @@
     </character>
   </pets>
   <achievements>
-    <achievement id="1" title="Р“СЂРѕР·Р° РіРЅРѕРјРѕРІ">
+    <achievement id="1" >
       <levels>
-        <level id="1" title="РЈР±РёС‚СЊ 50 РіРЅРѕРјРѕРІ" progress="50" reward_crystal="1" reward_experience="1"/>
-        <level id="2" title="РЈР±РёС‚СЊ 500 РіРЅРѕРјРѕРІ" progress="500" reward_crystal="1" reward_experience="1"/>
-        <level id="3" title="РЈР±РёС‚СЊ 1000 РіРЅРѕРјРѕРІ" progress="1000" reward_crystal="1" reward_experience="1"/>
+        <level id="1"  progress="50" reward_crystal="1" reward_experience="1"/>
+        <level id="2"  progress="500" reward_crystal="1" reward_experience="1"/>
+        <level id="3" progress="1000" reward_crystal="1" reward_experience="1"/>
       </levels>
     </achievement>
-    <achievement id="2" title="Р“СЂРѕР·Р° СЌР»СЊС„РѕРІ">
+    <achievement id="2" >
       <levels>
-        <level id="1" title="РЈР±РёС‚СЊ 50 СЌР»СЊС„РѕРІ" progress="50" reward_crystal="1" reward_experience="1"/>
-        <level id="2" title="РЈР±РёС‚СЊ 500 СЌР»СЊС„РѕРІ" progress="500" reward_crystal="1" reward_experience="1"/>
-        <level id="3" title="РЈР±РёС‚СЊ 1000 СЌР»СЊС„РѕРІ" progress="1000" reward_crystal="1" reward_experience="1"/>
+        <level id="1"  progress="50" reward_crystal="1" reward_experience="1"/>
+        <level id="2"  progress="500" reward_crystal="1" reward_experience="1"/>
+        <level id="3"  progress="1000" reward_crystal="1" reward_experience="1"/>
       </levels>
     </achievement>
   </achievements>
