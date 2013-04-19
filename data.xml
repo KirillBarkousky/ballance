@@ -2,8 +2,8 @@
   <multiFightDelay value="150"/>
   <characters_all>
     <characters name="main" type="100">
-      <character id="1" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0"/>
-      <character id="2" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0"/>
+      <character id="1" health="100" />
+      <character id="2" health="100" />
     </characters>
     <characters name="dwarves" type="1">
       <character id="1" health="60" strength="20" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
@@ -1400,6 +1400,7 @@
   <startMoney>
     <gold count="650"/>
     <gems count="10"/>
+    <first_fight strength="40" defense="15" magic_defense="0" fortune="0" agility="0" />
   </startMoney>
   <time>
     <upgradeTimeUnit period="60" price="1" priceType="2"/>
