@@ -411,17 +411,17 @@
   <levels>
     <level id="1" experience="50" gold="50" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="2" experience="55" gold="50" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="3" experience="125" gold="70" gems="" health="0" strength="5" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="3" experience="125" gold="70" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="4" experience="220" gold="100" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="5" experience="270" gold="100" gems="" health="0" strength="0" defense="5" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="6" experience="300" gold="120" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="5" experience="270" gold="100" gems="" health="10" strength="0" defense="5" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="6" experience="300" gold="120" gems="" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="7" experience="350" gold="120" gems="" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="8" experience="380" gold="170" gems="" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="9" experience="480" gold="170" gems="" health="15" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="10" experience="540" gold="200" gems="" health="15" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="11" experience="640" gold="200" gems="" health="25" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="12" experience="910" gold="200" gems="" health="30" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="13" experience="1220" gold="250" gems="" health="50" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="10" experience="540" gold="200" gems="" health="30" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="11" experience="640" gold="200" gems="" health="55" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="12" experience="910" gold="200" gems="" health="120" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="13" experience="1220" gold="250" gems="" health="400" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="14" experience="1140" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="15" experience="1290" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="16" experience="1450" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
@@ -695,7 +695,7 @@
           </battle>
         </battles>
       </level>
-      <level id="8">
+      <level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -723,8 +723,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="9">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -752,8 +751,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="10">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -781,8 +779,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="11">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -810,8 +807,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="12">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -839,8 +835,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="13">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -868,8 +863,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="14">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -897,8 +891,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="15">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -926,8 +919,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="16">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -955,8 +947,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="17">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -984,8 +975,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="18">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1013,8 +1003,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="19">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1042,8 +1031,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="20">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1071,8 +1059,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="21">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1100,8 +1087,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="22">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1129,8 +1115,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="23">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1158,8 +1143,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="24">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1187,8 +1171,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="25">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1216,8 +1199,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="26">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1245,8 +1227,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="27">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1274,8 +1255,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level>
-      <level id="28">
+      </level><level id="7">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1418,7 +1398,7 @@
     <price id="3" count="604800" productId="com.alawar.fightme.1weekenergy"/>
   </energy>
   <startMoney>
-    <gold count="600"/>
+    <gold count="650"/>
     <gems count="10"/>
   </startMoney>
   <time>
