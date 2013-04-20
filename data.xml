@@ -695,7 +695,7 @@
           </battle>
         </battles>
       </level>
-      <level id="7">
+      <level id="8">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -723,7 +723,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="9">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -751,7 +751,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="10">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -779,7 +779,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="11">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -807,7 +807,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="12">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -835,7 +835,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="13">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -863,7 +863,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="14">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -891,7 +891,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="15">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -919,7 +919,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="16">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -947,7 +947,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="17">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -975,7 +975,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="18">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1003,7 +1003,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="19">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1031,7 +1031,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="20">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1059,7 +1059,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="21">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1087,7 +1087,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="22">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1115,7 +1115,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="21">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1143,7 +1143,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="22">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1171,7 +1171,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="23">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1199,7 +1199,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="24">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1227,7 +1227,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="25">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
@@ -1255,7 +1255,7 @@
             <reward_lose experience="5"/>
           </battle>
         </battles>
-      </level><level id="7">
+      </level><level id="26">
         <battles>
           <battle id="1">
             <opponent type="1" id="31"/>
