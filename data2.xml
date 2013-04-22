@@ -1385,6 +1385,93 @@
           </battle>
         </battles>
       </level>
+      <level id="27">
+        <battles>
+          <battle id="1">
+            <opponent type="1" id="31"/>
+            <reward_win experience="290" gold="110" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="2">
+            <opponent type="1" id="32"/>
+            <reward_win experience="290" gold="110" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="3">
+            <opponent type="1" id="33"/>
+            <reward_win experience="320" gold="130" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="4">
+            <opponent type="1" id="34"/>
+            <reward_win experience="310" gold="120" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="5">
+            <opponent type="1" id="35"/>
+            <reward_win experience="380" gold="150" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+        </battles>
+      </level>
+      <level id="28">
+        <battles>
+          <battle id="1">
+            <opponent type="1" id="31"/>
+            <reward_win experience="290" gold="110" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="2">
+            <opponent type="1" id="32"/>
+            <reward_win experience="290" gold="110" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="3">
+            <opponent type="1" id="33"/>
+            <reward_win experience="320" gold="130" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="4">
+            <opponent type="1" id="34"/>
+            <reward_win experience="310" gold="120" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="5">
+            <opponent type="1" id="35"/>
+            <reward_win experience="380" gold="150" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+        </battles>
+      </level>
+      <level id="29">
+        <battles>
+          <battle id="1">
+            <opponent type="1" id="31"/>
+            <reward_win experience="290" gold="110" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="2">
+            <opponent type="1" id="32"/>
+            <reward_win experience="290" gold="110" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="3">
+            <opponent type="1" id="33"/>
+            <reward_win experience="320" gold="130" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="4">
+            <opponent type="1" id="34"/>
+            <reward_win experience="310" gold="120" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+          <battle id="5">
+            <opponent type="1" id="35"/>
+            <reward_win experience="380" gold="150" gems=""/>
+            <reward_lose experience="5"/>
+          </battle>
+        </battles>
+      </level>
     </levels>
   </pveSingle>
   <mines>
