@@ -260,7 +260,7 @@
   </leaderboards>
   <pvp>
     <reward glory="10"/>
-    <energy maxUnits="3" needForBattle="1" unitRefillTime="54000"/>
+    <energy maxUnits="3" needForBattle="1" unitRefillTime="900"/>
   </pvp>
   <pveSingleRepeat>
     <range min_level="0" max_level="49" rate="0.2"/>
