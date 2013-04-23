@@ -269,11 +269,11 @@
   <equipments>
     <equipment name="swords" type="7">
       <sword id="1" strength="40" price="200" priceType="1" accessLevel="1"/>
-      <sword id="2" strength="45" price="350" priceType="1" accessLevel="2"/>
-      <sword id="3" strength="100" price="500" priceType="1" accessLevel="4"/>
-      <sword id="4" strength="150" price="750" priceType="1" accessLevel="8"/>
-      <sword id="5" strength="230" price="1000" priceType="1" accessLevel="12"/>
-      <sword id="6" strength="300" price="70" priceType="2" accessLevel="1"/>
+      <sword id="2" strength="45" price="250" priceType="1" accessLevel="2"/>
+      <sword id="3" strength="100" price="460" priceType="1" accessLevel="4"/>
+      <sword id="4" strength="150" price="940" priceType="1" accessLevel="8"/>
+      <sword id="5" strength="300" price="2000" priceType="1" accessLevel="12"/>
+      <sword id="6" strength="750" price="70" priceType="2" accessLevel="1"/>
       <sword id="7" strength="1" price="11" priceType="1" accessLevel="100"/>
       <sword id="8" strength="1" price="11" priceType="1" accessLevel="100"/>
       <sword id="9" strength="1" price="11" priceType="1" accessLevel="100"/>
@@ -294,9 +294,9 @@
       <sword id="24" strength="1" price="11" priceType="2" accessLevel="60"/>
     </equipment>
     <equipment name="shields" type="3">
-      <shield id="1" health="5" defense="30" price="150" priceType="1" accessLevel="1"/>
-      <shield id="2" health="20" defense="50" price="400" priceType="1" accessLevel="4"/>
-      <shield id="3" health="50" defense="100" price="45" priceType="2" accessLevel="1"/>
+      <shield id="1" health="5" defense="25" price="140" priceType="1" accessLevel="1"/>
+      <shield id="2" health="60" defense="60" price="520" priceType="1" accessLevel="5"/>
+      <shield id="3" health="200" defense="200" price="45" priceType="2" accessLevel="1"/>
       <shield id="4" health="" defense="" price="11" priceType="1" accessLevel="100"/>
       <shield id="5" health="" defense="" price="11" priceType="1" accessLevel="100"/>
       <shield id="6" health="" defense="" price="11" priceType="2" accessLevel="20"/>
@@ -308,9 +308,9 @@
       <shield id="12" health="" defense="" price="11" priceType="2" accessLevel="60"/>
     </equipment>
     <equipment name="armors" type="1">
-      <armor id="1" health="5" defense="10" price="150" priceType="1" accessLevel="1"/>
-      <armor id="2" health="20" defense="40" price="700" priceType="1" accessLevel="8"/>
-      <armor id="3" health="50" defense="70" price="45" priceType="2" accessLevel="1"/>
+      <armor id="1" health="5" defense="15" price="160" priceType="1" accessLevel="1"/>
+      <armor id="2" health="70" defense="100" price="1200" priceType="1" accessLevel="9"/>
+      <armor id="3" health="200" defense="200" price="45" priceType="2" accessLevel="1"/>
       <armor id="4" health="" defense="" price="11" priceType="1" accessLevel="100"/>
       <armor id="5" health="" defense="" price="11" priceType="1" accessLevel="100"/>
       <armor id="6" health="" defense="" price="11" priceType="2" accessLevel="20"/>
@@ -323,8 +323,8 @@
     </equipment>
     <equipment name="boots" type="4">
       <boots id="1" health="5" defense="10" agility="10" price="60" priceType="1" accessLevel="1"/>
-      <boots id="2" health="15" defense="20" agility="10" price="300" priceType="1" accessLevel="6"/>
-      <boots id="3" health="30" defense="30" agility="30" price="20" priceType="2" accessLevel="1"/>
+      <boots id="2" health="45" defense="40" agility="10" price="300" priceType="1" accessLevel="7"/>
+      <boots id="3" health="70" defense="70" agility="30" price="20" priceType="2" accessLevel="1"/>
       <boots id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
       <boots id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
       <boots id="6" health="" defense="" agility="" price="11" priceType="2" accessLevel="20"/>
@@ -337,8 +337,8 @@
     </equipment>
     <equipment name="gloves" type="2">
       <gloves id="1" health="5" defense="5" agility="5" price="40" priceType="1" accessLevel="1"/>
-      <gloves id="2" health="10" defense="10" agility="10" price="125" priceType="1" accessLevel="4"/>
-      <gloves id="3" health="20" defense="20" agility="20" price="20" priceType="2" accessLevel="1"/>
+      <gloves id="2" health="30" defense="20" agility="10" price="200" priceType="1" accessLevel="4"/>
+      <gloves id="3" health="50" defense="50" agility="20" price="20" priceType="2" accessLevel="1"/>
       <gloves id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
       <gloves id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
       <gloves id="6" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
@@ -492,17 +492,17 @@
   <levels>
     <level id="1" experience="50" gold="50" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="2" experience="55" gold="50" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="3" experience="125" gold="70" gems="" health="0" strength="5" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="3" experience="125" gold="70" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="4" experience="220" gold="100" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="5" experience="270" gold="100" gems="" health="0" strength="0" defense="5" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="6" experience="300" gold="120" gems="" health="5" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="5" experience="270" gold="100" gems="" health="10" strength="0" defense="5" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="6" experience="300" gold="120" gems="" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="7" experience="350" gold="120" gems="" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="8" experience="380" gold="170" gems="" health="10" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="9" experience="480" gold="170" gems="" health="15" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="10" experience="540" gold="200" gems="" health="15" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="11" experience="640" gold="200" gems="" health="25" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="12" experience="910" gold="200" gems="" health="30" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="13" experience="1220" gold="250" gems="" health="50" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="10" experience="540" gold="200" gems="" health="30" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="11" experience="640" gold="200" gems="" health="55" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="12" experience="910" gold="200" gems="" health="120" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="13" experience="1220" gold="250" gems="" health="400" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="14" experience="1140" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="15" experience="1290" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="16" experience="1450" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
