@@ -1615,7 +1615,7 @@
   </day>
 </gifts>
   <startMoney>
-    <gold count="600"/>
+    <gold count="700"/>
     <gems count="10"/>
     <first_fight  magic_defense="0" fortune="0" agility="0" />
   </startMoney>
