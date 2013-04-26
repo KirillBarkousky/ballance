@@ -268,8 +268,8 @@
   </pveSingleRepeat>
   <equipments>
     <equipment name="swords" type="7">
-      <sword id="1" strength="40" price="200" priceType="1" accessLevel="1"/>
-      <sword id="2" strength="45" price="250" priceType="1" accessLevel="2"/>
+      <sword id="1" strength="10" price="200" priceType="1" accessLevel="1"/>
+      <sword id="2" strength="25" price="250" priceType="1" accessLevel="2"/>
       <sword id="3" strength="100" price="460" priceType="1" accessLevel="4"/>
       <sword id="4" strength="150" price="940" priceType="1" accessLevel="8"/>
       <sword id="5" strength="300" price="2000" priceType="1" accessLevel="12"/>
@@ -339,15 +339,15 @@
       <gloves id="1" health="5" defense="5" agility="5" price="40" priceType="1" accessLevel="1"/>
       <gloves id="2" health="30" defense="20" agility="10" price="200" priceType="1" accessLevel="4"/>
       <gloves id="3" health="50" defense="50" agility="20" price="20" priceType="2" accessLevel="1"/>
-      <gloves id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <gloves id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <gloves id="6" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
-      <gloves id="7" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <gloves id="8" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <gloves id="9" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
-      <gloves id="10" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <gloves id="11" health="" defense="" agility="" price="11" priceType="1" accessLevel="1"/>
-      <gloves id="12" health="" defense="" agility="" price="11" priceType="2" accessLevel="1"/>
+      <gloves id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <gloves id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <gloves id="6" health="" defense="" agility="" price="11" priceType="2" accessLevel="100"/>
+      <gloves id="7" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <gloves id="8" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <gloves id="9" health="" defense="" agility="" price="11" priceType="2" accessLevel="100"/>
+      <gloves id="10" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <gloves id="11" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <gloves id="12" health="" defense="" agility="" price="11" priceType="2" accessLevel="100"/>
     </equipment>
     <equipment name="amulets" type="6">
       <amulet id="1" agility="" price="65" priceType="2" collection="15" accessLevel="1"/>
