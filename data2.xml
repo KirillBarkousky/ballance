@@ -193,8 +193,8 @@
         <upgrade id="6" time="700" price="1" priceType="1" boostPrice="3" strength="21" frequency="5"/>
         <upgrade id="7" time="700" price="1" priceType="1" boostPrice="3" strength="22" frequency="5"/>
         <upgrade id="8" time="700" price="1" priceType="1" boostPrice="3" strength="23" frequency="5"/>
-        <upgrade id="9" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="10" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="9" time="700" price="1" priceType="1" boostPrice="3" strength="30" frequency="5"/>
+        <upgrade id="10" time="700" price="1" priceType="1" boostPrice="3" strength="40" frequency="5"/>
       </upgrades>
     </character>
     <character id="2" price="10" priceType="2" strength="10" frequency="5" accessLevel="20">
