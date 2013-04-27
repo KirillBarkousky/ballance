@@ -373,7 +373,7 @@
   </equipments>
   <upgradeable_equipments>
     <upgradeable_equipment name="scrolls" type="10">
-      <scroll id="1" price="50" priceType="1" damage="30" collection="2">
+      <scroll id="1" price="50" priceType="1" damage="30" collection="2" collectionPack="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -387,7 +387,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </scroll>
-      <scroll id="2" price="50" priceType="1" damage="30" collection="3">
+      <scroll id="2" price="50" priceType="1" damage="30" collection="3" collectionPack="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -401,7 +401,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </scroll>
-      <scroll id="3" price="50" priceType="1" damage="30" collection="4">
+      <scroll id="3" price="50" priceType="1" damage="30" collection="4" collectionPack="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -415,7 +415,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </scroll>
-      <scroll id="4" price="50" priceType="1" damage="30" collection="5">
+      <scroll id="4" price="50" priceType="1" damage="30" collection="5" collectionPack="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -431,7 +431,7 @@
       </scroll>
     </upgradeable_equipment>
     <upgradeable_equipment name="elixirs" type="11">
-      <elixir id="1" price="50" priceType="1" damage="30" collection="6">
+      <elixir id="1" price="50" priceType="1" damage="30" collection="6" collectionPack="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -445,7 +445,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </elixir>
-      <elixir id="2" price="50" priceType="1" damage="30" collection="7">
+      <elixir id="2" price="50" priceType="1" damage="30" collection="7" collectionPack="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -459,7 +459,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </elixir>
-      <elixir id="3" price="50" priceType="1" damage="30" collection="8">
+      <elixir id="3" price="50" priceType="1" damage="30" collection="8" collectionPack="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -473,7 +473,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </elixir>
-      <elixir id="4" price="50" priceType="1" damage="30" collection="9">
+      <elixir id="4" price="50" priceType="1" damage="30" collection="9" collectionPack="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
