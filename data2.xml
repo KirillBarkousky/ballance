@@ -185,14 +185,14 @@
   <pets name="helpers">
     <character id="1" price="10" priceType="2" strength="10" frequency="5" accessLevel="1">
       <upgrades>
-        <upgrade id="1" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="2" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="3" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="4" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="5" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="6" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="7" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="8" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="1" time="700" price="1" priceType="1" boostPrice="3" strength="13" frequency="5"/>
+        <upgrade id="2" time="700" price="1" priceType="1" boostPrice="3" strength="15" frequency="5"/>
+        <upgrade id="3" time="700" price="1" priceType="1" boostPrice="3" strength="17" frequency="5"/>
+        <upgrade id="4" time="700" price="1" priceType="1" boostPrice="3" strength="18" frequency="5"/>
+        <upgrade id="5" time="700" price="1" priceType="1" boostPrice="3" strength="20" frequency="5"/>
+        <upgrade id="6" time="700" price="1" priceType="1" boostPrice="3" strength="21" frequency="5"/>
+        <upgrade id="7" time="700" price="1" priceType="1" boostPrice="3" strength="22" frequency="5"/>
+        <upgrade id="8" time="700" price="1" priceType="1" boostPrice="3" strength="23" frequency="5"/>
         <upgrade id="9" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
         <upgrade id="10" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
       </upgrades>
