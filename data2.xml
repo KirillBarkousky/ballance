@@ -177,9 +177,14 @@
       <range min="61" max="80" rate="0.03"/>
     </experience_lose>
     <stuff_win>
-      <equipment id="1" type="1"/>
-      <equipment id="1" type="2"/>
-      <equipment id="1" type="3"/>
+      <equipment id="1" type="10"/>
+      <equipment id="2" type="10"/>
+      <equipment id="3" type="10"/>
+      <equipment id="4" type="10"/>
+      <equipment id="1" type="11"/>
+      <equipment id="2" type="11"/>
+      <equipment id="3" type="11"/>
+      <equipment id="4" type="11"/>
     </stuff_win>
   </pveMulti>
   <pets name="helpers">
