@@ -6,160 +6,160 @@
       <character id="2" health="100" strength="40" defense="15"  />
     </characters>
     <characters name="dwarves" type="1">
-      <character id="1" health="60" strength="20" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="2" health="125" strength="50" defense="35" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="3" health="150" strength="75" defense="42" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="4" health="175" strength="60" defense="40" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="5" health="200" strength="80" defense="44" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="0" chance3="2" chance4="0" chance5="0"/>
-      <character id="6" health="210" strength="70" defense="40" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="7" health="225" strength="70" defense="40" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="8" health="250" strength="100" defense="70" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="3"/>
-      <character id="9" health="275" strength="80" defense="50" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="10" health="350" strength="120" defense="80" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="3" chance5="0"/>
-      <character id="11" health="360" strength="150" defense="60" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="12" health="400" strength="150" defense="60" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="13" health="450" strength="160" defense="80" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="0"/>
-      <character id="14" health="475" strength="150" defense="70" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="15" health="600" strength="200" defense="95" magic_defense="10" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="3"/>
-      <character id="16" health="620" strength="200" defense="70" magic_defense="10" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="17" health="670" strength="200" defense="70" magic_defense="10" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="18" health="750" strength="230" defense="90" magic_defense="10" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="4"/>
-      <character id="19" health="800" strength="220" defense="80" magic_defense="20" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="20" health="900" strength="260" defense="100" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="3" chance5="0"/>
-      <character id="21" health="920" strength="260" defense="90" magic_defense="15" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="22" health="960" strength="280" defense="90" magic_defense="15" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="23" health="1050" strength="310" defense="110" magic_defense="25" fortune="0" agility="0" chance1="2" chance2="0" chance3="2" chance4="4" chance5="0"/>
-      <character id="24" health="1100" strength="310" defense="100" magic_defense="15" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="25" health="1300" strength="350" defense="140" magic_defense="30" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="4" chance5="4"/>
-      <character id="26" health="1330" strength="320" defense="100" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="27" health="1380" strength="320" defense="100" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="28" health="1500" strength="400" defense="150" magic_defense="30" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="3" chance5="0"/>
-      <character id="29" health="1550" strength="350" defense="130" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="4" chance5="0"/>
-      <character id="30" health="1700" strength="450" defense="190" magic_defense="30" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="3" chance5="4"/>
-      <character id="31" health="1750" strength="400" defense="170" magic_defense="30" fortune="0" agility="0" chance1="3" chance2="3" chance3="3" chance4="4" chance5="4"/>
-      <character id="32" health="1800" strength="400" defense="170" magic_defense="30" fortune="0" agility="0" chance1="3" chance2="3" chance3="3" chance4="3" chance5="0"/>
-      <character id="33" health="2000" strength="550" defense="190" magic_defense="40" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="4" chance5="4"/>
-      <character id="34" health="2250" strength="500" defense="180" magic_defense="30" fortune="0" agility="0" chance1="3" chance2="3" chance3="3" chance4="4" chance5="4"/>
-      <character id="35" health="3000" strength="600" defense="250" magic_defense="50" fortune="0" agility="0" chance1="2" chance2="2" chance3="2" chance4="3" chance5="3"/>
+      <character id="1" name="Dwarf" health="60" strength="20" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="2" name="Dwarf" health="125" strength="50" defense="35" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="3" name="Dwarf" health="150" strength="75" defense="42" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="4" name="Dwarf" health="175" strength="60" defense="40" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="5" name="Dwarf" health="200" strength="80" defense="44" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="0" chance3="2" chance4="0" chance5="0"/>
+      <character id="6" name="Dwarf" health="210" strength="70" defense="40" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="7" name="Dwarf" health="225" strength="70" defense="40" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="8" name="Dwarf" health="250" strength="100" defense="70" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="3"/>
+      <character id="9" name="Dwarf" health="275" strength="80" defense="50" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="10" name="Dwarf" health="350" strength="120" defense="80" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="3" chance5="0"/>
+      <character id="11" name="Dwarf" health="360" strength="150" defense="60" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="12" name="Dwarf" health="400" strength="150" defense="60" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="13" name="Dwarf" health="450" strength="160" defense="80" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="0"/>
+      <character id="14" name="Dwarf" health="475" strength="150" defense="70" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="15" name="Dwarf" health="600" strength="200" defense="95" magic_defense="10" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="3"/>
+      <character id="16" name="Dwarf" health="620" strength="200" defense="70" magic_defense="10" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="17" name="Dwarf" health="670" strength="200" defense="70" magic_defense="10" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="18" name="Dwarf" health="750" strength="230" defense="90" magic_defense="10" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="4"/>
+      <character id="19" name="Dwarf" health="800" strength="220" defense="80" magic_defense="20" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="20" name="Dwarf" health="900" strength="260" defense="100" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="3" chance5="0"/>
+      <character id="21" name="Dwarf" health="920" strength="260" defense="90" magic_defense="15" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="22" name="Dwarf" health="960" strength="280" defense="90" magic_defense="15" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="23" name="Dwarf" health="1050" strength="310" defense="110" magic_defense="25" fortune="0" agility="0" chance1="2" chance2="0" chance3="2" chance4="4" chance5="0"/>
+      <character id="24" name="Dwarf" health="1100" strength="310" defense="100" magic_defense="15" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="25" name="Dwarf" health="1300" strength="350" defense="140" magic_defense="30" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="4" chance5="4"/>
+      <character id="26" name="Dwarf" health="1330" strength="320" defense="100" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="27" name="Dwarf" health="1380" strength="320" defense="100" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="28" name="Dwarf" health="1500" strength="400" defense="150" magic_defense="30" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="3" chance5="0"/>
+      <character id="29" name="Dwarf" health="1550" strength="350" defense="130" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="4" chance5="0"/>
+      <character id="30" name="Dwarf" health="1700" strength="450" defense="190" magic_defense="30" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="3" chance5="4"/>
+      <character id="31" name="Dwarf" health="1750" strength="400" defense="170" magic_defense="30" fortune="0" agility="0" chance1="3" chance2="3" chance3="3" chance4="4" chance5="4"/>
+      <character id="32" name="Dwarf" health="1800" strength="400" defense="170" magic_defense="30" fortune="0" agility="0" chance1="3" chance2="3" chance3="3" chance4="3" chance5="0"/>
+      <character id="33" name="Dwarf" health="2000" strength="550" defense="190" magic_defense="40" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="4" chance5="4"/>
+      <character id="34" name="Dwarf" health="2250" strength="500" defense="180" magic_defense="30" fortune="0" agility="0" chance1="3" chance2="3" chance3="3" chance4="4" chance5="4"/>
+      <character id="35" name="Dwarf" health="3000" strength="600" defense="250" magic_defense="50" fortune="0" agility="0" chance1="2" chance2="2" chance3="2" chance4="3" chance5="3"/>
     </characters>
     <characters name="elves" type="2">
-      <character id="1" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="2" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="3" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="4" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="5" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="6" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="7" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="8" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="9" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="10" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="11" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="12" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="13" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="14" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="15" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="16" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="17" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="18" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="19" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="20" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="21" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="22" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="23" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="24" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="25" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="26" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="27" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="28" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="29" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="30" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="31" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="32" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="33" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="34" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="35" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="1" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="2" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="3" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="4" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="5" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="6" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="7" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="8" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="9" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="10" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="11" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="12" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="13" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="14" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="15" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="16" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="17" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="18" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="19" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="20" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="21" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="22" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="23" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="24" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="25" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="26" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="27" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="28" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="29" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="30" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="31" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="32" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="33" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="34" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="35" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
     </characters>
     <characters name="undeads" type="3">
-      <character id="1" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="2" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="3" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="4" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="5" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="6" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="7" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="8" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="9" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="10" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="11" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="12" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="13" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="14" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="15" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="16" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="17" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="18" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="19" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="20" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="21" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="22" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="23" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="24" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="25" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="26" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="27" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="28" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="29" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="30" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="31" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="32" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="33" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="34" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="35" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="36" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="37" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="38" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="39" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="40" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="1" name="Undead" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="2" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="3" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="4" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="5" name="Undead" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="6" name="Undead" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="7" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="8" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="9" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="10" name="Undead" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="11" name="Undead" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="12" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="13" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="14" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="15" name="Undead" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="16" name="Undead" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="17" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="18" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="19" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="20" name="Undead" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="21" name="Undead" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="22" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="23" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="24" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="25" name="Undead" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="26" name="Undead" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="27" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="28" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="29" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="30" name="Undead" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="31" name="Undead" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="32" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="33" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="34" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="35" name="Undead" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="36" name="Undead" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="37" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="38" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="39" name="Undead" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="40" name="Undead" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
     </characters>
     <characters name="trolls" type="4">
-      <character id="1" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="2" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="3" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="4" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="5" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="6" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="7" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="8" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="9" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="10" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="11" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="12" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="13" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="14" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="15" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="16" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="17" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="18" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="19" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="20" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="21" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="22" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="23" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="24" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="25" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="26" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="27" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="28" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="29" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="30" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="31" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="32" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="33" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="34" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="35" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="1" name="Troll" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="2" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="3" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="4" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="5" name="Troll" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="6" name="Troll" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="7" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="8" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="9" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="10" name="Troll" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="11" name="Troll" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="12" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="13" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="14" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="15" name="Troll" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="16" name="Troll" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="17" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="18" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="19" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="20" name="Troll" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="21" name="Troll" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="22" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="23" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="24" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="25" name="Troll" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="26" name="Troll" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="27" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="28" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="29" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="30" name="Troll" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="31" name="Troll" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="32" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="33" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="34" name="Troll" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="35" name="Troll" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
     </characters>
     <characters name="dragon" type="5">
-      <character id="1" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="1" name="Sileahim" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
     </characters>
   </characters_all>
   <rating/>
@@ -186,20 +186,32 @@
       <equipment id="3" type="11"/>
       <equipment id="4" type="11"/>
     </stuff_win>
+    <money_win>
+      <range min="0" max="10" gold="1" gems=""/>
+      <range min="11" max="25" gold="5" gems="1"/>
+      <range min="26" max="60" gold="10" gems="2"/>
+      <range min="61" max="80" gold="20" gems="5"/>
+    </money_win>
+    <locking>
+      <range min="1" max="20" time="100" unlockPrice="1" priceType="2"/>
+      <range min="21" max="40" time="100" unlockPrice="1" priceType="2"/>
+      <range min="41" max="60" time="100" unlockPrice="1" priceType="2"/>
+      <range min="61" max="80" time="100" unlockPrice="1" priceType="2"/>
+    </locking>
   </pveMulti>
   <pets name="helpers">
     <character id="1" price="10" priceType="2" strength="10" frequency="5" accessLevel="1">
       <upgrades>
-        <upgrade id="1" time="700" price="1" priceType="1" boostPrice="3" strength="13" frequency="5"/>
-        <upgrade id="2" time="700" price="1" priceType="1" boostPrice="3" strength="15" frequency="5"/>
-        <upgrade id="3" time="700" price="1" priceType="1" boostPrice="3" strength="17" frequency="5"/>
-        <upgrade id="4" time="700" price="1" priceType="1" boostPrice="3" strength="18" frequency="5"/>
-        <upgrade id="5" time="700" price="1" priceType="1" boostPrice="3" strength="20" frequency="5"/>
-        <upgrade id="6" time="700" price="1" priceType="1" boostPrice="3" strength="21" frequency="5"/>
-        <upgrade id="7" time="700" price="1" priceType="1" boostPrice="3" strength="22" frequency="5"/>
-        <upgrade id="8" time="700" price="1" priceType="1" boostPrice="3" strength="23" frequency="5"/>
-        <upgrade id="9" time="700" price="1" priceType="1" boostPrice="3" strength="30" frequency="5"/>
-        <upgrade id="10" time="700" price="1" priceType="1" boostPrice="3" strength="40" frequency="5"/>
+        <upgrade id="1" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="2" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="3" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="4" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="5" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="6" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="7" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="8" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="9" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="10" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
       </upgrades>
     </character>
     <character id="2" price="10" priceType="2" strength="10" frequency="5" accessLevel="20">
@@ -378,7 +390,7 @@
   </equipments>
   <upgradeable_equipments>
     <upgradeable_equipment name="scrolls" type="10">
-      <scroll id="1" price="50" priceType="1" damage="30" collection="2" collectionPack="5">
+      <scroll id="1" price="50" priceType="1" damage="30" collection="2" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -392,7 +404,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </scroll>
-      <scroll id="2" price="50" priceType="1" damage="30" collection="3" collectionPack="5">
+      <scroll id="2" price="50" priceType="1" damage="30" collection="3" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -406,7 +418,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </scroll>
-      <scroll id="3" price="50" priceType="1" damage="30" collection="4" collectionPack="5">
+      <scroll id="3" price="50" priceType="1" damage="30" collection="4" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -420,7 +432,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </scroll>
-      <scroll id="4" price="50" priceType="1" damage="30" collection="5" collectionPack="5">
+      <scroll id="4" price="50" priceType="1" damage="30" collection="5" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -436,7 +448,7 @@
       </scroll>
     </upgradeable_equipment>
     <upgradeable_equipment name="elixirs" type="11">
-      <elixir id="1" price="50" priceType="1" damage="30" collection="6" collectionPack="5">
+      <elixir id="1" price="50" priceType="1" damage="30" collection="6" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -450,7 +462,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </elixir>
-      <elixir id="2" price="50" priceType="1" damage="30" collection="7" collectionPack="5">
+      <elixir id="2" price="50" priceType="1" damage="30" collection="7" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -464,7 +476,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </elixir>
-      <elixir id="3" price="50" priceType="1" damage="30" collection="8" collectionPack="5">
+      <elixir id="3" price="50" priceType="1" damage="30" collection="8" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -478,7 +490,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </elixir>
-      <elixir id="4" price="50" priceType="1" damage="30" collection="9" collectionPack="5">
+      <elixir id="4" price="50" priceType="1" damage="30" collection="9" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -1628,3 +1640,4 @@
     <boostTimeUnit period="60" price="1" priceType="2"/>
   </time>
 </balance>
+
