@@ -13,71 +13,71 @@
       <character id="5" name="Dwarf" health="200" strength="80" defense="44" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="0" chance3="2" chance4="0" chance5="0"/>
       <character id="6" name="Dwarf" health="210" strength="70" defense="40" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
       <character id="7" name="Dwarf" health="225" strength="70" defense="40" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="8" name="Dwarf" health="250" strength="100" defense="70" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="3"/>
-      <character id="9" name="Dwarf" health="275" strength="80" defense="50" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="10" name="Dwarf" health="350" strength="120" defense="80" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="3" chance5="0"/>
+      <character id="8" name="Dwarf" health="250" strength="100" defense="70" magic_defense="0" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="0" chance5="4"/>
+      <character id="9" name="Dwarf" health="275" strength="80" defense="50" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="10" name="Dwarf" health="350" strength="120" defense="80" magic_defense="0" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="4" chance5="4"/>
       <character id="11" name="Dwarf" health="360" strength="150" defense="60" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
       <character id="12" name="Dwarf" health="400" strength="150" defense="60" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="13" name="Dwarf" health="450" strength="160" defense="80" magic_defense="0" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="0"/>
+      <character id="13" name="Dwarf" health="450" strength="160" defense="80" magic_defense="0" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="0" chance5="4"/>
       <character id="14" name="Dwarf" health="475" strength="150" defense="70" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="15" name="Dwarf" health="600" strength="200" defense="95" magic_defense="10" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="3"/>
-      <character id="16" name="Dwarf" health="620" strength="200" defense="70" magic_defense="10" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="17" name="Dwarf" health="670" strength="200" defense="70" magic_defense="10" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="18" name="Dwarf" health="750" strength="230" defense="90" magic_defense="10" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="0" chance5="4"/>
-      <character id="19" name="Dwarf" health="800" strength="220" defense="80" magic_defense="20" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="20" name="Dwarf" health="900" strength="260" defense="100" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="3" chance5="0"/>
-      <character id="21" name="Dwarf" health="920" strength="260" defense="90" magic_defense="15" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="15" name="Dwarf" health="600" strength="200" defense="95" magic_defense="10" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="4" chance5="4"/>
+      <character id="16" name="Dwarf" health="620" strength="200" defense="70" magic_defense="10" fortune="0" agility="0" chance1="4" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="17" name="Dwarf" health="670" strength="200" defense="70" magic_defense="10" fortune="0" agility="0" chance1="4" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="18" name="Dwarf" health="750" strength="230" defense="90" magic_defense="10" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="0" chance5="4"/>
+      <character id="19" name="Dwarf" health="800" strength="220" defense="80" magic_defense="20" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="20" name="Dwarf" health="900" strength="260" defense="100" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="4" chance5="4"/>
+      <character id="21" name="Dwarf" health="920" strength="260" defense="90" magic_defense="15" fortune="0" agility="0" chance1="4" chance2="0" chance3="3" chance4="0" chance5="0"/>
       <character id="22" name="Dwarf" health="960" strength="280" defense="90" magic_defense="15" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="23" name="Dwarf" health="1050" strength="310" defense="110" magic_defense="25" fortune="0" agility="0" chance1="2" chance2="0" chance3="2" chance4="4" chance5="0"/>
-      <character id="24" name="Dwarf" health="1100" strength="310" defense="100" magic_defense="15" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="25" name="Dwarf" health="1300" strength="350" defense="140" magic_defense="30" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="4" chance5="4"/>
-      <character id="26" name="Dwarf" health="1330" strength="320" defense="100" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="27" name="Dwarf" health="1380" strength="320" defense="100" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="0" chance5="0"/>
-      <character id="28" name="Dwarf" health="1500" strength="400" defense="150" magic_defense="30" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="3" chance5="0"/>
-      <character id="29" name="Dwarf" health="1550" strength="350" defense="130" magic_defense="20" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="4" chance5="0"/>
-      <character id="30" name="Dwarf" health="1700" strength="450" defense="190" magic_defense="30" fortune="0" agility="0" chance1="2" chance2="3" chance3="2" chance4="3" chance5="4"/>
-      <character id="31" name="Dwarf" health="1750" strength="400" defense="170" magic_defense="30" fortune="0" agility="0" chance1="3" chance2="3" chance3="3" chance4="4" chance5="4"/>
-      <character id="32" name="Dwarf" health="1800" strength="400" defense="170" magic_defense="30" fortune="0" agility="0" chance1="3" chance2="3" chance3="3" chance4="3" chance5="0"/>
-      <character id="33" name="Dwarf" health="2000" strength="550" defense="190" magic_defense="40" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="4" chance5="4"/>
-      <character id="34" name="Dwarf" health="2250" strength="500" defense="180" magic_defense="30" fortune="0" agility="0" chance1="3" chance2="3" chance3="3" chance4="4" chance5="4"/>
-      <character id="35" name="Dwarf" health="3000" strength="600" defense="250" magic_defense="50" fortune="0" agility="0" chance1="2" chance2="2" chance3="2" chance4="3" chance5="3"/>
+      <character id="23" name="Dwarf" health="1050" strength="310" defense="110" magic_defense="25" fortune="0" agility="0" chance1="3" chance2="0" chance3="3" chance4="4" chance5="0"/>
+      <character id="24" name="Dwarf" health="1100" strength="310" defense="100" magic_defense="15" fortune="0" agility="0" chance1="4" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="25" name="Dwarf" health="1300" strength="350" defense="140" magic_defense="30" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="4" chance5="4"/>
+      <character id="26" name="Dwarf" health="1330" strength="320" defense="100" magic_defense="20" fortune="0" agility="0" chance1="4" chance2="4" chance3="3" chance4="0" chance5="0"/>
+      <character id="27" name="Dwarf" health="1380" strength="320" defense="100" magic_defense="20" fortune="0" agility="0" chance1="4" chance2="4" chance3="3" chance4="0" chance5="0"/>
+      <character id="28" name="Dwarf" health="1500" strength="400" defense="150" magic_defense="30" fortune="0" agility="0" chance1="4" chance2="3" chance3="2" chance4="4" chance5="0"/>
+      <character id="29" name="Dwarf" health="1550" strength="350" defense="130" magic_defense="20" fortune="0" agility="0" chance1="4" chance2="4" chance3="3" chance4="4" chance5="0"/>
+      <character id="30" name="Dwarf" health="1700" strength="450" defense="190" magic_defense="30" fortune="0" agility="0" chance1="4" chance2="3" chance3="2" chance4="4" chance5="4"/>
+      <character id="31" name="Dwarf" health="1750" strength="400" defense="170" magic_defense="30" fortune="0" agility="0" chance1="4" chance2="4" chance3="2" chance4="4" chance5="4"/>
+      <character id="32" name="Dwarf" health="1800" strength="400" defense="170" magic_defense="30" fortune="0" agility="0" chance1="4" chance2="3" chance3="2" chance4="4" chance5="4"/>
+      <character id="33" name="Dwarf" health="2000" strength="550" defense="190" magic_defense="40" fortune="0" agility="0" chance1="3" chance2="4" chance3="2" chance4="4" chance5="4"/>
+      <character id="34" name="Dwarf" health="2250" strength="500" defense="180" magic_defense="30" fortune="0" agility="0" chance1="4" chance2="3" chance3="2" chance4="4" chance5="4"/>
+      <character id="35" name="Dwarf" health="3000" strength="600" defense="250" magic_defense="50" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="3" chance5="3"/>
     </characters>
     <characters name="elves" type="2">
-      <character id="1" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="2" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="3" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="4" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="5" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="6" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="7" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="8" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="9" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="10" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="11" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="12" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="13" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="14" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="15" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="16" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="17" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="18" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="19" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="20" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="21" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="22" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="23" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="24" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="25" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="26" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="27" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="28" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="29" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="30" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="31" name="Dark Elf" health="120" strength="50" defense="20" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="32" name="Dark Elf" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="33" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="34" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
-      <character id="35" name="Dark Elf" health="100" strength="40" defense="15" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
+      <character id="1" name="Dark Elf" health="2000" strength="700" defense="120" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="2" name="Dark Elf" health="2000" strength="750" defense="120" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="0" chance5="0"/>
+      <character id="3" name="Dark Elf" health="2150" strength="800" defense="140" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="5" chance3="3" chance4="4" chance5="0"/>
+      <character id="4" name="Dark Elf" health="2100" strength="870" defense="130" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="5" chance3="3" chance4="0" chance5="0"/>
+      <character id="5" name="Dark Elf" health="2200" strength="900" defense="150" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="5" chance3="2" chance4="4" chance5="4"/>
+      <character id="6" name="Dark Elf" health="2100" strength="900" defense="155" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="5" chance3="3" chance4="0" chance5="0"/>
+      <character id="7" name="Dark Elf" health="2100" strength="920" defense="155" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="0" chance3="3" chance4="0" chance5="4"/>
+      <character id="8" name="Dark Elf" health="2250" strength="950" defense="160" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="5" chance3="3" chance4="4" chance5="0"/>
+      <character id="9" name="Dark Elf" health="2200" strength="970" defense="155" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="5" chance3="3" chance4="0" chance5="4"/>
+      <character id="10" name="Dark Elf" health="2350" strength="1050" defense="175" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="4" chance3="2" chance4="4" chance5="4"/>
+      <character id="11" name="Dark Elf" health="2200" strength="1000" defense="180" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="0" chance3="3" chance4="5" chance5="0"/>
+      <character id="12" name="Dark Elf" health="2250" strength="1040" defense="180" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="3" chance4="5" chance5="0"/>
+      <character id="13" name="Dark Elf" health="2300" strength="1100" defense="190" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="5" chance3="2" chance4="0" chance5="4"/>
+      <character id="14" name="Dark Elf" health="2350" strength="1120" defense="185" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="0" chance3="3" chance4="5" chance5="5"/>
+      <character id="15" name="Dark Elf" health="2500" strength="1200" defense="200" magic_defense="0" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="5" chance5="5"/>
+      <character id="16" name="Dark Elf" health="2620" strength="1230" defense="210" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="5" chance3="3" chance4="5" chance5="0"/>
+      <character id="17" name="Dark Elf" health="2700" strength="1250" defense="210" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="5" chance3="3" chance4="0" chance5="5"/>
+      <character id="18" name="Dark Elf" health="2750" strength="1300" defense="220" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="4" chance3="2" chance4="0" chance5="5"/>
+      <character id="19" name="Dark Elf" health="2800" strength="1320" defense="225" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="0" chance3="3" chance4="4" chance5="0"/>
+      <character id="20" name="Dark Elf" health="3000" strength="1400" defense="240" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="0" chance3="2" chance4="4" chance5="4"/>
+      <character id="21" name="Dark Elf" health="3100" strength="1410" defense="250" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="5" chance3="3" chance4="5" chance5="0"/>
+      <character id="22" name="Dark Elf" health="3100" strength="1440" defense="250" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="0" chance3="3" chance4="0" chance5="5"/>
+      <character id="23" name="Dark Elf" health="3250" strength="1500" defense="270" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="4" chance3="2" chance4="5" chance5="5"/>
+      <character id="24" name="Dark Elf" health="3150" strength="1520" defense="265" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="5" chance3="2" chance4="5" chance5="0"/>
+      <character id="25" name="Dark Elf" health="3300" strength="1600" defense="280" magic_defense="0" fortune="0" agility="0" chance1="3" chance2="3" chance3="2" chance4="4" chance5="5"/>
+      <character id="26" name="Dark Elf" health="3200" strength="1630" defense="270" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="5" chance3="3" chance4="5" chance5="0"/>
+      <character id="27" name="Dark Elf" health="3250" strength="1640" defense="270" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="0" chance3="3" chance4="0" chance5="5"/>
+      <character id="28" name="Dark Elf" health="3500" strength="1670" defense="290" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="4" chance3="2" chance4="0" chance5="5"/>
+      <character id="29" name="Dark Elf" health="3400" strength="1700" defense="280" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="0" chance3="3" chance4="5" chance5="5"/>
+      <character id="30" name="Dark Elf" health="3650" strength="1800" defense="300" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="4" chance3="2" chance4="4" chance5="4"/>
+      <character id="31" name="Dark Elf" health="3450" strength="1850" defense="320" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="4" chance3="2" chance4="4" chance5="4"/>
+      <character id="32" name="Dark Elf" health="3500" strength="1900" defense="320" magic_defense="0" fortune="0" agility="0" chance1="5" chance2="4" chance3="2" chance4="4" chance5="4"/>
+      <character id="33" name="Dark Elf" health="3650" strength="2000" defense="350" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="3" chance3="2" chance4="4" chance5="5"/>
+      <character id="34" name="Dark Elf" health="3800" strength="2200" defense="370" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="3" chance3="2" chance4="4" chance5="5"/>
+      <character id="35" name="Dark Elf" health="4000" strength="2500" defense="400" magic_defense="0" fortune="0" agility="0" chance1="4" chance2="3" chance3="2" chance4="3" chance5="4"/>
     </characters>
     <characters name="undeads" type="3">
       <character id="1" name="Undead" health="100" strength="35" defense="10" magic_defense="0" fortune="0" agility="0" chance1="0" chance2="0" chance3="0" chance4="0" chance5="0"/>
@@ -193,53 +193,53 @@
       <range min="61" max="80" gold="20" gems="5"/>
     </money_win>
     <locking>
-      <range min="1" max="20" time="100" unlockPrice="1" priceType="2"/>
-      <range min="21" max="40" time="100" unlockPrice="1" priceType="2"/>
-      <range min="41" max="60" time="100" unlockPrice="1" priceType="2"/>
-      <range min="61" max="80" time="100" unlockPrice="1" priceType="2"/>
+      <range min="1" max="20" time="86400" unlockPrice="40" priceType="2"/>
+      <range min="21" max="40" time="86400" unlockPrice="40" priceType="2"/>
+      <range min="41" max="60" time="86400" unlockPrice="40" priceType="2"/>
+      <range min="61" max="80" time="86400" unlockPrice="40" priceType="2"/>
     </locking>
   </pveMulti>
   <pets name="helpers">
-    <character id="1" price="10" priceType="2" strength="10" frequency="5" accessLevel="1">
+    <character id="1" price="200" priceType="2" strength="30" frequency="4" accessLevel="1">
       <upgrades>
-        <upgrade id="1" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="2" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="3" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="4" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="5" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="6" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="7" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="8" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="9" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="10" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="1" time="900" price="20" priceType="1" boostPrice="10" strength="40" frequency="4"/>
+        <upgrade id="2" time="1800" price="40" priceType="1" boostPrice="20" strength="50" frequency="4"/>
+        <upgrade id="3" time="3600" price="120" priceType="1" boostPrice="40" strength="60" frequency="4"/>
+        <upgrade id="4" time="10800" price="360" priceType="1" boostPrice="120" strength="80" frequency="4"/>
+        <upgrade id="5" time="14400" price="480" priceType="1" boostPrice="160" strength="110" frequency="4"/>
+        <upgrade id="6" time="21600" price="720" priceType="1" boostPrice="240" strength="170" frequency="4"/>
+        <upgrade id="7" time="28800" price="1200" priceType="1" boostPrice="320" strength="250" frequency="3"/>
+        <upgrade id="8" time="43200" price="1440" priceType="1" boostPrice="480" strength="380" frequency="3"/>
+        <upgrade id="9" time="86400" price="2880" priceType="1" boostPrice="960" strength="500" frequency="3"/>
+        <upgrade id="10" time="172800" price="5760" priceType="1" boostPrice="1920" strength="750" frequency="3"/>
       </upgrades>
     </character>
-    <character id="2" price="10" priceType="2" strength="10" frequency="5" accessLevel="20">
+    <character id="2" price="400" priceType="2" strength="300" frequency="4" accessLevel="20">
       <upgrades>
-        <upgrade id="1" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="2" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="3" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="4" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="5" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="6" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="7" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="8" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="9" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="10" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="1" time="900" price="1" priceType="1" boostPrice="80" strength="310" frequency="4"/>
+        <upgrade id="2" time="1800" price="1" priceType="1" boostPrice="120" strength="320" frequency="4"/>
+        <upgrade id="3" time="3600" price="1" priceType="1" boostPrice="160" strength="340" frequency="4"/>
+        <upgrade id="4" time="10800" price="1" priceType="1" boostPrice="200" strength="370" frequency="4"/>
+        <upgrade id="5" time="14400" price="1" priceType="1" boostPrice="240" strength="400" frequency="4"/>
+        <upgrade id="6" time="21600" price="1" priceType="1" boostPrice="280" strength="450" frequency="4"/>
+        <upgrade id="7" time="28800" price="1" priceType="1" boostPrice="320" strength="500" frequency="3"/>
+        <upgrade id="8" time="43200" price="1" priceType="1" boostPrice="360" strength="600" frequency="3"/>
+        <upgrade id="9" time="86400" price="1" priceType="1" boostPrice="400" strength="750" frequency="3"/>
+        <upgrade id="10" time="172800" price="1" priceType="1" boostPrice="600" strength="1000" frequency="3"/>
       </upgrades>
     </character>
-    <character id="3" price="10" priceType="2" strength="10" frequency="5" accessLevel="50">
+    <character id="3" price="1000" priceType="2" strength="1000" frequency="4" accessLevel="50">
       <upgrades>
-        <upgrade id="1" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="2" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="3" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="4" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="5" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="6" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="7" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="8" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="9" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
-        <upgrade id="10" time="700" price="1" priceType="1" boostPrice="3" strength="10" frequency="5"/>
+        <upgrade id="1" time="900" price="1" priceType="1" boostPrice="80" strength="310" frequency="4"/>
+        <upgrade id="2" time="1800" price="1" priceType="1" boostPrice="120" strength="320" frequency="4"/>
+        <upgrade id="3" time="3600" price="1" priceType="1" boostPrice="160" strength="340" frequency="4"/>
+        <upgrade id="4" time="10800" price="1" priceType="1" boostPrice="200" strength="370" frequency="4"/>
+        <upgrade id="5" time="14400" price="1" priceType="1" boostPrice="240" strength="400" frequency="4"/>
+        <upgrade id="6" time="21600" price="1" priceType="1" boostPrice="280" strength="450" frequency="4"/>
+        <upgrade id="7" time="28800" price="1" priceType="1" boostPrice="320" strength="500" frequency="3"/>
+        <upgrade id="8" time="43200" price="1" priceType="1" boostPrice="360" strength="600" frequency="3"/>
+        <upgrade id="9" time="86400" price="1" priceType="1" boostPrice="400" strength="750" frequency="3"/>
+        <upgrade id="10" time="172800" price="1" priceType="1" boostPrice="600" strength="1000" frequency="3"/>
       </upgrades>
     </character>
   </pets>
@@ -292,30 +292,30 @@
       <sword id="5" strength="600" price="3000" priceType="1" accessLevel="16"/>
       <sword id="6" strength="800" price="70" priceType="2" accessLevel="1"/>
       <sword id="7" strength="900" price="6000" priceType="1" accessLevel="20"/>
-      <sword id="8" strength="1" price="11" priceType="1" accessLevel="100"/>
-      <sword id="9" strength="1" price="11" priceType="1" accessLevel="100"/>
-      <sword id="10" strength="1" price="11" priceType="1" accessLevel="100"/>
-      <sword id="11" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="8" strength="1300" price="12000" priceType="1" accessLevel="24"/>
+      <sword id="9" strength="1" price="11" priceType="1" accessLevel="28"/>
+      <sword id="10" strength="1" price="11" priceType="1" accessLevel="32"/>
+      <sword id="11" strength="1" price="11" priceType="1" accessLevel="36"/>
       <sword id="12" strength="1" price="11" priceType="2" accessLevel="20"/>
-      <sword id="13" strength="1" price="11" priceType="1" accessLevel="100"/>
-      <sword id="14" strength="1" price="11" priceType="1" accessLevel="100"/>
-      <sword id="15" strength="1" price="11" priceType="1" accessLevel="100"/>
-      <sword id="16" strength="1" price="11" priceType="1" accessLevel="100"/>
-      <sword id="17" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="13" strength="1" price="11" priceType="1" accessLevel="40"/>
+      <sword id="14" strength="1" price="11" priceType="1" accessLevel="44"/>
+      <sword id="15" strength="1" price="11" priceType="1" accessLevel="48"/>
+      <sword id="16" strength="1" price="11" priceType="1" accessLevel="52"/>
+      <sword id="17" strength="1" price="11" priceType="1" accessLevel="56"/>
       <sword id="18" strength="1" price="11" priceType="2" accessLevel="40"/>
-      <sword id="19" strength="1" price="11" priceType="1" accessLevel="100"/>
-      <sword id="20" strength="1" price="11" priceType="1" accessLevel="100"/>
-      <sword id="21" strength="1" price="11" priceType="1" accessLevel="100"/>
-      <sword id="22" strength="1" price="11" priceType="1" accessLevel="100"/>
-      <sword id="23" strength="1" price="11" priceType="1" accessLevel="100"/>
+      <sword id="19" strength="1" price="11" priceType="1" accessLevel="60"/>
+      <sword id="20" strength="1" price="11" priceType="1" accessLevel="64"/>
+      <sword id="21" strength="1" price="11" priceType="1" accessLevel="68"/>
+      <sword id="22" strength="1" price="11" priceType="1" accessLevel="72"/>
+      <sword id="23" strength="1" price="11" priceType="1" accessLevel="76"/>
       <sword id="24" strength="1" price="11" priceType="2" accessLevel="60"/>
     </equipment>
     <equipment name="shields" type="3">
       <shield id="1" health="5" defense="25" price="140" priceType="1" accessLevel="1"/>
       <shield id="2" health="125" defense="125" price="900" priceType="1" accessLevel="10"/>
       <shield id="3" health="200" defense="200" price="45" priceType="2" accessLevel="1"/>
-      <shield id="4" health="" defense="" price="11" priceType="1" accessLevel="100"/>
-      <shield id="5" health="" defense="" price="11" priceType="1" accessLevel="100"/>
+      <shield id="4" health="" defense="" price="11" priceType="1" accessLevel="26"/>
+      <shield id="5" health="" defense="" price="11" priceType="1" accessLevel="34"/>
       <shield id="6" health="" defense="" price="11" priceType="2" accessLevel="20"/>
       <shield id="7" health="" defense="" price="11" priceType="1" accessLevel="100"/>
       <shield id="8" health="" defense="" price="11" priceType="1" accessLevel="100"/>
@@ -328,8 +328,8 @@
       <armor id="1" health="15" defense="15" price="160" priceType="1" accessLevel="1"/>
       <armor id="2" health="215" defense="125" price="1500" priceType="1" accessLevel="13"/>
       <armor id="3" health="200" defense="200" price="45" priceType="2" accessLevel="1"/>
-      <armor id="4" health="" defense="" price="11" priceType="1" accessLevel="100"/>
-      <armor id="5" health="" defense="" price="11" priceType="1" accessLevel="100"/>
+      <armor id="4" health="" defense="" price="11" priceType="1" accessLevel="30"/>
+      <armor id="5" health="" defense="" price="11" priceType="1" accessLevel="37"/>
       <armor id="6" health="" defense="" price="11" priceType="2" accessLevel="20"/>
       <armor id="7" health="" defense="" price="11" priceType="1" accessLevel="100"/>
       <armor id="8" health="" defense="" price="11" priceType="1" accessLevel="100"/>
@@ -342,8 +342,8 @@
       <boots id="1" health="5" defense="10" agility="10" price="60" priceType="1" accessLevel="1"/>
       <boots id="2" health="135" defense="100" agility="10" price="320" priceType="1" accessLevel="7"/>
       <boots id="3" health="75" defense="70" agility="30" price="25" priceType="2" accessLevel="1"/>
-      <boots id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
-      <boots id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
+      <boots id="4" health="500" defense="500" agility="" price="1700" priceType="1" accessLevel="22"/>
+      <boots id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="33"/>
       <boots id="6" health="" defense="" agility="" price="11" priceType="2" accessLevel="20"/>
       <boots id="7" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
       <boots id="8" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
@@ -356,9 +356,9 @@
       <gloves id="1" health="5" defense="5" agility="5" price="40" priceType="1" accessLevel="1"/>
       <gloves id="2" health="35" defense="35" agility="10" price="160" priceType="1" accessLevel="4"/>
       <gloves id="3" health="50" defense="50" agility="20" price="15" priceType="2" accessLevel="1"/>
-      <gloves id="4" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
-      <gloves id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
-      <gloves id="6" health="" defense="" agility="" price="11" priceType="2" accessLevel="100"/>
+      <gloves id="4" health="200" defense="200" agility="" price="700" priceType="1" accessLevel="20"/>
+      <gloves id="5" health="" defense="" agility="" price="11" priceType="1" accessLevel="28"/>
+      <gloves id="6" health="" defense="" agility="" price="11" priceType="2" accessLevel="20"/>
       <gloves id="7" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
       <gloves id="8" health="" defense="" agility="" price="11" priceType="1" accessLevel="100"/>
       <gloves id="9" health="" defense="" agility="" price="11" priceType="2" accessLevel="100"/>
@@ -367,30 +367,30 @@
       <gloves id="12" health="" defense="" agility="" price="11" priceType="2" accessLevel="100"/>
     </equipment>
     <equipment name="amulets" type="6">
-      <amulet id="1" agility="" price="65" priceType="2" collection="15" accessLevel="1"/>
+      <amulet id="1" agility="100" price="65" priceType="2" collection="15" accessLevel="1"/>
       <amulet id="2" agility="" price="11" priceType="2" collection="16" accessLevel="20"/>
-      <amulet id="3" agility="" price="11" priceType="2" collection="17" accessLevel="20"/>
-      <amulet id="4" agility="" price="11" priceType="2" collection="18" accessLevel="20"/>
-      <amulet id="5" agility="" price="11" priceType="2" collection="19" accessLevel="20"/>
+      <amulet id="3" agility="" price="11" priceType="2" collection="17" accessLevel="40"/>
+      <amulet id="4" agility="" price="11" priceType="2" collection="18" accessLevel="60"/>
+      <amulet id="5" agility="" price="11" priceType="2" collection="19" accessLevel="80"/>
     </equipment>
     <equipment name="mascots" type="5">
-      <mascot id="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="65" priceType="2" collection="10" accessLevel="1"/>
+      <mascot id="1" health="400" strength="100" defense="200" magic_defense="100" fortune="10" agility="10" chance="0" price="65" priceType="2" collection="10" accessLevel="1"/>
       <mascot id="2" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="11" accessLevel="20"/>
-      <mascot id="3" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="12" accessLevel="20"/>
-      <mascot id="4" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="13" accessLevel="20"/>
-      <mascot id="5" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="14" accessLevel="20"/>
+      <mascot id="3" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="12" accessLevel="40"/>
+      <mascot id="4" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="13" accessLevel="60"/>
+      <mascot id="5" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="14" accessLevel="80"/>
     </equipment>
     <equipment name="rings" type="8">
-      <ring id="1" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="65" priceType="2" collection="20" accessLevel="1"/>
+      <ring id="1" health="200" strength="300" defense="150" magic_defense="10" fortune="50" agility="10" chance="0" price="65" priceType="2" collection="20" accessLevel="1"/>
       <ring id="2" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="21" accessLevel="20"/>
-      <ring id="3" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="22" accessLevel="20"/>
-      <ring id="4" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="23" accessLevel="20"/>
-      <ring id="5" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="24" accessLevel="20"/>
+      <ring id="3" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="22" accessLevel="40"/>
+      <ring id="4" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="23" accessLevel="60"/>
+      <ring id="5" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0" price="11" priceType="2" collection="24" accessLevel="80"/>
     </equipment>
   </equipments>
   <upgradeable_equipments>
     <upgradeable_equipment name="scrolls" type="10">
-      <scroll id="1" price="50" priceType="1" damage="30" collection="2" collectionCount="5">
+      <scroll id="1" title="lightning" price="50" priceType="1" damage="30" collection="2" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -404,7 +404,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </scroll>
-      <scroll id="2" price="50" priceType="1" damage="30" collection="3" collectionCount="5">
+      <scroll id="2" title="poison" price="50" priceType="1" damage="30" collection="3" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -418,7 +418,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </scroll>
-      <scroll id="3" price="50" priceType="1" damage="30" collection="4" collectionCount="5">
+      <scroll id="3" title="counterspell" price="50" priceType="1" damage="30" collection="4" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -432,7 +432,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </scroll>
-      <scroll id="4" price="50" priceType="1" damage="30" collection="5" collectionCount="5">
+      <scroll id="4" title="freezing" price="50" priceType="1" damage="30" collection="5" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -448,7 +448,21 @@
       </scroll>
     </upgradeable_equipment>
     <upgradeable_equipment name="elixirs" type="11">
-      <elixir id="1" price="50" priceType="1" damage="30" collection="6" collectionCount="5">
+      <elixir id="1" title="life" price="50" priceType="1" damage="30" collection="6" collectionCount="5">
+        <upgrades>
+          <upgrade id="1" price="20" priceType="2" boostPrice="100" boostPriceType="2" time="3600" newPrice="100" damage="60"/>
+          <upgrade id="2" price="120" priceType="2" boostPrice="600" boostPriceType="2" time="21600" newPrice="600" damage="360"/>
+          <upgrade id="3" price="240" priceType="2" boostPrice="1200" boostPriceType="2" time="43200" newPrice="1200" damage="720"/>
+          <upgrade id="4" price="81" priceType="2" boostPrice="45" boostPriceType="2" time="60" newPrice="40" damage="35"/>
+          <upgrade id="5" price="11" priceType="2" boostPrice="50" boostPriceType="2" time="60" newPrice="50" damage="35"/>
+          <upgrade id="6" price="20" priceType="2" boostPrice="15" boostPriceType="2" time="60" newPrice="60" damage="35"/>
+          <upgrade id="7" price="71" priceType="2" boostPrice="25" boostPriceType="2" time="60" newPrice="70" damage="35"/>
+          <upgrade id="8" price="81" priceType="2" boostPrice="45" boostPriceType="2" time="60" newPrice="80" damage="35"/>
+          <upgrade id="9" price="11" priceType="2" boostPrice="50" boostPriceType="2" time="60" newPrice="90" damage="35"/>
+          <upgrade id="10" price="20" priceType="2" boostPrice="15" boostPriceType="2" time="60" newPrice="100" damage="35"/>
+        </upgrades>
+      </elixir>
+      <elixir id="2" title="regeneration" price="50" priceType="1" damage="30" collection="7" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -462,7 +476,7 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </elixir>
-      <elixir id="2" price="50" priceType="1" damage="30" collection="7" collectionCount="5">
+      <elixir id="3" title="strength" price="50" priceType="1" damage="30" collection="8" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
@@ -476,32 +490,11 @@
           <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </elixir>
-      <elixir id="3" price="50" priceType="1" damage="30" collection="8" collectionCount="5">
+      <elixir id="4" title="invulnerability" price="100" priceType="1" damage="30" collection="9" collectionCount="5">
         <upgrades>
           <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
           <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
           <upgrade id="3" price="71" priceType="1" boostPrice="25" boostPriceType="" time="60" newPrice="30" damage="35"/>
-          <upgrade id="4" price="81" priceType="1" boostPrice="45" boostPriceType="" time="60" newPrice="40" damage="35"/>
-          <upgrade id="5" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="50" damage="35"/>
-          <upgrade id="6" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="60" damage="35"/>
-          <upgrade id="7" price="71" priceType="1" boostPrice="25" boostPriceType="" time="60" newPrice="70" damage="35"/>
-          <upgrade id="8" price="81" priceType="1" boostPrice="45" boostPriceType="" time="60" newPrice="80" damage="35"/>
-          <upgrade id="9" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="90" damage="35"/>
-          <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
-        </upgrades>
-      </elixir>
-      <elixir id="4" price="50" priceType="1" damage="30" collection="9" collectionCount="5">
-        <upgrades>
-          <upgrade id="1" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="10" damage="35"/>
-          <upgrade id="2" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="20" damage="35"/>
-          <upgrade id="3" price="71" priceType="1" boostPrice="25" boostPriceType="" time="60" newPrice="30" damage="35"/>
-          <upgrade id="4" price="81" priceType="1" boostPrice="45" boostPriceType="" time="60" newPrice="40" damage="35"/>
-          <upgrade id="5" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="50" damage="35"/>
-          <upgrade id="6" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="60" damage="35"/>
-          <upgrade id="7" price="71" priceType="1" boostPrice="25" boostPriceType="" time="60" newPrice="70" damage="35"/>
-          <upgrade id="8" price="81" priceType="1" boostPrice="45" boostPriceType="" time="60" newPrice="80" damage="35"/>
-          <upgrade id="9" price="11" priceType="1" boostPrice="50" boostPriceType="" time="60" newPrice="90" damage="35"/>
-          <upgrade id="10" price="20" priceType="1" boostPrice="15" boostPriceType="" time="60" newPrice="100" damage="35"/>
         </upgrades>
       </elixir>
     </upgradeable_equipment>
@@ -520,18 +513,18 @@
     <level id="11" experience="640" gold="200" gems="" health="200" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="12" experience="910" gold="200" gems="" health="250" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="13" experience="1220" gold="250" gems="" health="400" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="14" experience="1140" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="15" experience="1290" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="16" experience="1450" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="17" experience="1620" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="18" experience="1800" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="19" experience="1990" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="20" experience="2190" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="21" experience="2400" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="22" experience="2620" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="23" experience="2850" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="24" experience="3090" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
-    <level id="25" experience="3340" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="14" experience="1400" gold="300" gems="" health="400" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="15" experience="1700" gold="350" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="16" experience="1850" gold="420" gems="" health="500" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="17" experience="2050" gold="450" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="18" experience="2150" gold="520" gems="" health="550" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="19" experience="2200" gold="600" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="20" experience="2450" gold="700" gems="" health="600" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="21" experience="2600" gold="850" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="22" experience="2750" gold="900" gems="" health="650" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="23" experience="2800" gold="1100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="24" experience="3000" gold="1200" gems="" health="800" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
+    <level id="25" experience="3100" gold="1350" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="26" experience="3600" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="27" experience="3870" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
     <level id="28" experience="4150" gold="100" gems="" health="0" strength="0" defense="0" magic_defense="0" fortune="0" agility="0" chance="0"/>
@@ -783,12 +776,12 @@
           </battle>
           <battle id="4">
             <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="120" gems=""/>
+            <reward_win experience="400" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
             <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="150" gems=""/>
+            <reward_win experience="500" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -796,28 +789,28 @@
       <level id="8">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="36"/>
+            <reward_win experience="500" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="37"/>
+            <reward_win experience="550" gold="180" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
-            <reward_win experience="320" gold="130" gems=""/>
+            <opponent type="1" id="38"/>
+            <reward_win experience="600" gold="200" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="120" gems=""/>
+            <opponent type="1" id="39"/>
+            <reward_win experience="550" gold="230" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="150" gems=""/>
+            <opponent type="1" id="40"/>
+            <reward_win experience="650" gold="300" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -825,28 +818,28 @@
       <level id="9">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="41"/>
+            <reward_win experience="600" gold="250" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="42"/>
+            <reward_win experience="600" gold="270" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
-            <reward_win experience="320" gold="130" gems=""/>
+            <opponent type="1" id="43"/>
+            <reward_win experience="650" gold="300" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="120" gems=""/>
+            <opponent type="1" id="44"/>
+            <reward_win experience="650" gold="320" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="150" gems=""/>
+            <opponent type="1" id="45"/>
+            <reward_win experience="750" gold="350" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -854,28 +847,28 @@
       <level id="10">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="46"/>
+            <reward_win experience="700" gold="380" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="47"/>
+            <reward_win experience="700" gold="380" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
-            <reward_win experience="320" gold="130" gems=""/>
+            <opponent type="1" id="48"/>
+            <reward_win experience="750" gold="420" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="120" gems=""/>
+            <opponent type="1" id="49"/>
+            <reward_win experience="700" gold="450" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="150" gems=""/>
+            <opponent type="1" id="50"/>
+            <reward_win experience="750" gold="500" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -883,28 +876,28 @@
       <level id="11">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="51"/>
+            <reward_win experience="750" gold="480" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="52"/>
+            <reward_win experience="800" gold="500" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
-            <reward_win experience="320" gold="130" gems=""/>
+            <opponent type="1" id="53"/>
+            <reward_win experience="850" gold="550" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="120" gems=""/>
+            <opponent type="1" id="54"/>
+            <reward_win experience="800" gold="600" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="150" gems=""/>
+            <opponent type="1" id="55"/>
+            <reward_win experience="900" gold="700" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -912,28 +905,28 @@
       <level id="12">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="56"/>
+            <reward_win experience="850" gold="750" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="57"/>
+            <reward_win experience="850" gold="850" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
-            <reward_win experience="320" gold="130" gems=""/>
+            <opponent type="1" id="58"/>
+            <reward_win experience="900" gold="950" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="120" gems=""/>
+            <opponent type="1" id="59"/>
+            <reward_win experience="1000" gold="1100" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="150" gems=""/>
+            <opponent type="1" id="60"/>
+            <reward_win experience="900" gold="1150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -941,28 +934,28 @@
       <level id="13">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="61"/>
+            <reward_win experience="900" gold="1150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="62"/>
+            <reward_win experience="900" gold="1200" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
-            <reward_win experience="320" gold="130" gems=""/>
+            <opponent type="1" id="63"/>
+            <reward_win experience="1000" gold="1300" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="120" gems=""/>
+            <opponent type="1" id="64"/>
+            <reward_win experience="950" gold="1350" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="150" gems=""/>
+            <opponent type="1" id="65"/>
+            <reward_win experience="1050" gold="1500" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -970,28 +963,28 @@
       <level id="14">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="66"/>
+            <reward_win experience="1000" gold="1550" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
-            <reward_win experience="290" gold="110" gems=""/>
+            <opponent type="1" id="67"/>
+            <reward_win experience="1000" gold="1550" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
-            <reward_win experience="320" gold="130" gems=""/>
+            <opponent type="1" id="68"/>
+            <reward_win experience="1100" gold="1600" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="120" gems=""/>
+            <opponent type="1" id="69"/>
+            <reward_win experience="1000" gold="1700" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="150" gems=""/>
+            <opponent type="1" id="70"/>
+            <reward_win experience="1300" gold="2000" gems=""/>
             <reward_lose experience="5"/>
           </battle>
         </battles>
@@ -999,27 +992,27 @@
       <level id="15">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="71"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="72"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="73"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="74"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="75"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1028,27 +1021,27 @@
       <level id="16">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="76"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="77"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="78"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="79"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="80"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1057,27 +1050,27 @@
       <level id="17">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="81"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="82"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="83"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="84"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="85"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1086,27 +1079,27 @@
       <level id="18">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="86"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="87"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="88"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="89"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="90"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1115,27 +1108,27 @@
       <level id="19">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="91"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="92"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="93"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="94"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="95"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1144,27 +1137,27 @@
       <level id="20">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="96"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="97"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="98"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="99"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="100"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1173,27 +1166,27 @@
       <level id="21">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="101"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="102"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="103"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="104"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="105"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1202,85 +1195,27 @@
       <level id="22">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="106"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="107"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="108"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="109"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="150" gems=""/>
-            <reward_lose experience="5"/>
-          </battle>
-        </battles>
-      </level>
-      <level id="21">
-        <battles>
-          <battle id="1">
-            <opponent type="1" id="31"/>
-            <reward_win experience="290" gold="110" gems=""/>
-            <reward_lose experience="5"/>
-          </battle>
-          <battle id="2">
-            <opponent type="1" id="32"/>
-            <reward_win experience="290" gold="110" gems=""/>
-            <reward_lose experience="5"/>
-          </battle>
-          <battle id="3">
-            <opponent type="1" id="33"/>
-            <reward_win experience="320" gold="130" gems=""/>
-            <reward_lose experience="5"/>
-          </battle>
-          <battle id="4">
-            <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="120" gems=""/>
-            <reward_lose experience="5"/>
-          </battle>
-          <battle id="5">
-            <opponent type="1" id="35"/>
-            <reward_win experience="380" gold="150" gems=""/>
-            <reward_lose experience="5"/>
-          </battle>
-        </battles>
-      </level>
-      <level id="22">
-        <battles>
-          <battle id="1">
-            <opponent type="1" id="31"/>
-            <reward_win experience="290" gold="110" gems=""/>
-            <reward_lose experience="5"/>
-          </battle>
-          <battle id="2">
-            <opponent type="1" id="32"/>
-            <reward_win experience="290" gold="110" gems=""/>
-            <reward_lose experience="5"/>
-          </battle>
-          <battle id="3">
-            <opponent type="1" id="33"/>
-            <reward_win experience="320" gold="130" gems=""/>
-            <reward_lose experience="5"/>
-          </battle>
-          <battle id="4">
-            <opponent type="1" id="34"/>
-            <reward_win experience="310" gold="120" gems=""/>
-            <reward_lose experience="5"/>
-          </battle>
-          <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="110"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1289,27 +1224,27 @@
       <level id="23">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="111"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="112"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="113"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="114"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="115"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1318,27 +1253,27 @@
       <level id="24">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="116"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="117"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="118"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="119"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="120"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1347,27 +1282,27 @@
       <level id="25">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="121"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="122"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="123"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="124"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="125"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1376,27 +1311,27 @@
       <level id="26">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="126"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="127"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="128"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="129"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="130"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1405,27 +1340,27 @@
       <level id="27">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="131"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="132"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="133"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="134"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="135"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1434,27 +1369,27 @@
       <level id="28">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="136"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="137"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="138"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="139"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="140"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1463,27 +1398,27 @@
       <level id="29">
         <battles>
           <battle id="1">
-            <opponent type="1" id="31"/>
+            <opponent type="1" id="141"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="2">
-            <opponent type="1" id="32"/>
+            <opponent type="1" id="142"/>
             <reward_win experience="290" gold="110" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="3">
-            <opponent type="1" id="33"/>
+            <opponent type="1" id="143"/>
             <reward_win experience="320" gold="130" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="4">
-            <opponent type="1" id="34"/>
+            <opponent type="1" id="144"/>
             <reward_win experience="310" gold="120" gems=""/>
             <reward_lose experience="5"/>
           </battle>
           <battle id="5">
-            <opponent type="1" id="35"/>
+            <opponent type="1" id="145"/>
             <reward_win experience="380" gold="150" gems=""/>
             <reward_lose experience="5"/>
           </battle>
@@ -1640,4 +1575,5 @@
     <boostTimeUnit period="60" price="1" priceType="2"/>
   </time>
 </balance>
+
 
